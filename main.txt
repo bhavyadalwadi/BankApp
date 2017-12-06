@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bank Name</title>
+    <link type="text/css" rel="stylesheet" href="_style/bootstrap.min.css" />
+    <link type="text/css" rel="stylesheet" href="_style/style.css" />
+    <script src="_script/bootstrap.min.js"></script>
+</head>
+
+<body>
+    <nav class="navbar navbar-light bg-faded navbar-static-top" id="header">
+        <a class="navbar-brand" href="#">
+    <img src="https://v4-alpha.getbootstrap.com/assets/brand/bootstrap-solid.svg" width="30" height="30" class="d-inline-block align-top" alt="">
+    Bank Name
+  </a>
+
+        <form class="form-inline">
+            <input class="form-control mr-sm-2" type="text" placeholder="Search">
+            <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+        </form>
+    </nav>   <!--navigation Bar-->
+<div class="container-fluid">
+    
+    <div class="row" style="height:525px; background-color: silver;">
+        <div class="col-8" style="background-color: black">
+        
+            
+            
+            
+            
+        </div>      <!--slider div-->
+        <div class="col-4" style="margin-top: 200px;">
+
+            <form style="    margin-left: 12%;
+    border: 2px solid red;
+    padding-left: 25px;
+    margin-right: 65px;
+                         padding: 12px;">
+                <div><strong><h3>Login</h3></strong> </div>
+                <div class="form-group">
+                    <label>User Name</label>
+                    <input type="text" placeholder="User name">
+                </div>
+                <div class="form-group">
+                    <label>Password&nbsp;&nbsp;&nbsp;</label>
+                    <input type="Password" placeholder="Password">
+                </div>
+                <div class="row">
+                    <div class="col-6">
+                        <a href="#">Enroll</a><br>
+                        <a href="#">Forgot Password</a>
+                    </div>
+                    <div class="col-6">
+                        <button class="btn btn-primary" style="width: 100px">Login</button></div>
+                </div>
+            </form>
+        </div>
+
+    </div>  <!--Login area-->
+
+    <div class="row">
+        <div class="col-3" style="background-color: #c6b871">
+            <a href="#">Footer link 1</a><br>
+            <a href="#">Footer link 1</a><br>
+            <a href="#">Footer link 1</a><br>
+            <a href="#">Footer link 1</a>
+        </div>
+        <div class="col-3" style="background-color: #c6b871">
+        <a href="#">Footer link 1</a><br>
+            <a href="#">Footer link 1</a><br>
+            <a href="#">Footer link 1</a><br>
+            <a href="#">Footer link 1</a></div>
+        <div class="col-3" style="background-color: #c6b871">
+        <a href="#">Footer link 1</a><br>
+            <a href="#">Footer link 1</a><br>
+            <a href="#">Footer link 1</a><br>
+            <a href="#">Footer link 1</a></div>
+        <div class="col-3" style="background-color: #c6b871">
+        <a href="#">Footer link 1</a><br>
+            <a href="#">Footer link 1</a><br>
+            <a href="#">Footer link 1</a><br>
+            <a href="#">Footer link 1</a></div>
+        
+    </div>
+    </div>      <!--Main page container-->
+
+    <script src="_script/script.js"></script>
+</body>
+
+</html>
