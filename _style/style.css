@@ -41,22 +41,15 @@ li a:link{
 li a:visited {
     color: black;
 }
-
+/*Calculate mortgage form*/
 #contactForm {
+    margin: 2% 5%;
     color: white;
     background-color: black;
-    display: none;
-    z-index: 1000;
     border: 6px solid salmon;
     padding: 3em;
     width: 700px;
     text-align: center;
-    position: fixed;
-    top:50%;
-    left:50%;
-    transform: translate(-50%,-50%);
-    -webkit-transform: translate(-50%,-50%)
-
 }
 
 input, textarea {
@@ -81,4 +74,42 @@ textarea { height: 80px; resize: none; }
     font-size: 1.2em;
     border: none;
     height: 30px;
+}
+
+/*
+display calculations*/
+#calc{
+    background-color: rgba(75,56,65,0.68);
+}
+.accounts{
+    background-color: #1d1e1f;
+    color: white;
+    height: 150px;
+    width: 200px;
+
+}
+.accountshdr{
+    color: #000000;
+    background-color: #ffa422;
+    height: 100%;
+    width: 200px;
+    margin-bottom: 0px;
+    font-weight: 700;
+}
+.balance{
+font-family: 'Graduate', cursive;
+font-size: xx-large;
+text-align: center;
+}
+
+#amttransfer{
+width: 245px;
+}
+
+#sidebar{
+    background-color: #1d1e1f;
+    color: white;
+}
+#transferform{
+    padding:10px;
 }

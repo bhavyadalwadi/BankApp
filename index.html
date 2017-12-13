@@ -17,31 +17,7 @@
 <nav id="nav-placeholder"></nav>
     <!--navigation Bar-->
     <div class="container-fluid">
-        <div id="contactForm">
 
-            <h1>Calculate Mortgage</h1>
-            <form data-toggle="validator" role="form" id="frm" class="text-left">
-                <div class="form-group">
-                    <label class="control-label"><h5>Home price</h5></label>
-                    <input type="text" class="form-control" id="HomePrice" placeholder="$850000" required>
-                </div>
-                <label class="control-label"><h5>Down payment</h5></label>
-                <div class="input-group">
-                    <input type="text" class="mr-3" id="dwnPayment" placeholder="$150000" required />
-                    <input type="text" id="dwnpaymentrate" placeholder="20%" required />
-                </div>
-                <label class="control-label mt-3"><h5>Mortgage term</h5></label>
-                <div class="input-group">
-                    <input type="text" class="mr-3" id="years" placeholder="30 Years" required />
-                    <input type="text" id="months" placeholder="360 Months" required />
-                </div>
-                <label class="control-label mt-3"><h5>Annual interest rate</h5></label>
-                <div class="input-group">
-                    <input type="text" class="mr-3" id="rate" placeholder="3.15%" required />
-                    <button id="calculate" class="form-control btn btn-primary">Calculate</button>
-                </div>
-            </form>
-        </div>
         <div class="row mt-5 mb-5">
             <div class="col-6">
                 <div id="carouselExampleIndicators" class="carousel slide ml-5" data-ride="carousel">
@@ -107,7 +83,7 @@
         </div>
 
         <!--Login area-->
-        <div class="row text-justify" style="height: 150px;">
+        <div class="row text-justify mb-5" style="height: 150px;">
             <div class="col-4">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris eget tellus vel ipsum tincidunt ultrices. Nunc sed arcu sapien. Morbi vehicula finibus enim sed interdum. Integer a ex finibus arcu laoreet finibus. Aliquam et iaculis magna. Suspendisse condimentum eu augue sed varius. Maecenas dapibus pharetra nisl a sagittis. Donec nec commodo nisi.</div>
             <div class="col-4">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris eget tellus vel ipsum tincidunt ultrices. Nunc sed arcu sapien. Morbi vehicula finibus enim sed interdum. Integer a ex finibus arcu laoreet finibus. Aliquam et iaculis magna. Suspendisse condimentum eu augue sed varius. Maecenas dapibus pharetra nisl a sagittis. Donec nec commodo nisi.</div>
             <div class="col-4">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris eget tellus vel ipsum tincidunt ultrices. Nunc sed arcu sapien. Morbi vehicula finibus enim sed interdum. Integer a ex finibus arcu laoreet finibus. Aliquam et iaculis magna. Suspendisse condimentum eu augue sed varius. Maecenas dapibus pharetra nisl a sagittis. Donec nec commodo nisi.</div>
@@ -119,13 +95,16 @@
     <!--Main page container-->
 
     <script src="_script/script.js"></script>
-<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+
 <script>
     $.get("footer.html", function(data){
         $("#footer-holder").replaceWith(data);
     });
     $.get("nav.html", function(data){
         $("#nav-placeholder").replaceWith(data);
+    });
+    $('.carousel').carousel({
+        interval: 3000
     });
 </script>
 </body>

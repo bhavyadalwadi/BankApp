@@ -6,59 +6,70 @@
     <title>Enroll</title>
     <link type="text/css" rel="stylesheet" href="_style/bootstrap.min.css" />
     <link type="text/css" rel="stylesheet" href="_style/style.css" />
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css">
     <script src="_script/jquery-3.2.1.min.js"></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.3/js/tether.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
 </head>
 <body>
 <nav id="nav-placeholder"></nav>
 
 <div class="container-fluid">
     <h2 class="text-center mt-5">Sign Up</h2>
-    <div class="row">
-        <div class="col-2"></div>
-        <div class="col-8">
+    <div class="row mb-5">
+        <div class="col-3"></div>
+        <div class="col-6" style="background-color: #a09eff">
 
             <form data-toggle="validator" role="form" id="frm">
+                <legend><u>Personal Information</u></legend>
                 <div class="form-group">
                     <label class="control-label">First Name</label>
-                    <input type="text" class="form-control" id="custFirstName" placeholder="Dean" required>
+                    <div class="input-group">
+                        <span class="input-group-addon"><span class="fa fa-user"></span></span>
+                        <input type="text" class="form-control" placeholder="Dean" required>
+                    </div>
                 </div>
+
                 <div class="form-group">
                     <label class="control-label">Last Name</label>
+                    <div class="input-group">
+                        <span class="input-group-addon"><span class="fa fa-user"></span></span>
                     <input type="text" class="form-control" id="custLastName" placeholder="Johns" required>
-                </div>
-                <div class="form-group">
-                    <label class="control-label">User Name</label>
-                    <input type="text" class="form-control" id="custusrName" placeholder="deanjohns" required>
-                </div>
-                <div class="form-group">
-                    <label class="control-label">Password</label>
-                    <input type="password" class="form-control" id="custusrpass" required>
-                </div>
-                <div class="form-group">
-                    <label class="control-label">Re-enter Password</label>
-                    <input type="password" class="form-control" id="custusrpas" required>
+                    </div>
                 </div>
                 <div class="form-group">
                     <label class="control-label">Email</label>
+                    <div class="input-group">
+                        <span class="input-group-addon"><i class="fa fa-at"></i></span>
                     <input type="email" class="form-control" id="custEmail" placeholder="deanjohns@xyz.com" required>
+                    </div>
                 </div>
                 <div class="form-group">
                     <label class="control-label">Phone Number</label>
+                    <div class="input-group">
+                        <span class="input-group-addon"><i class="fa fa-mobile"></i></span>
                     <input type="number" class="form-control" id="custNumber" placeholder="888-888-8888" required>
+                    </div>
                 </div>
                 <div class="form-group">
                     <label class="control-label">Address</label>
+                    <div class="input-group">
+                        <span class="input-group-addon"><i class="fa fa-home"></i></span>
                     <input type="text" class="form-control" id="custadd" required>
+                    </div>
                 </div>
                 <div class="form-group">
                     <label class="control-label">City </label>
+                    <div class="input-group">
+                        <span class="input-group-addon"><i class="fa fa-home"></i></span>
                     <input type="text" class="form-control" id="city" required>
+                    </div>
                 </div>
                 <div class="form-group">
                     <label class="form-control-label">State</label>
+                    <div class="input-group">
+                        <span class="input-group-addon"><i class="fa fa-home"></i></span>
                     <select id="state" class="form-control">
                         <option value="">Select One</option>
                         <option value="Alaska">Alaska</option>
@@ -114,16 +125,44 @@
                         <option value="West Virginia">West Virginia</option>
                         <option value="Wyoming">Wyoming</option>
                     </select>
+                    </div>
                 </div>
+                <fieldset>
+                    <legend><u>Account Information</u></legend>
+                    <div class="form-group">
+                        <label class="control-label">User Name</label>
+                        <div class="input-group">
+                            <span class="input-group-addon"><span class="fa fa-user"></span></span>
+                            <input type="text" class="form-control" id="custusrName" placeholder="deanjohns" required>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label class="control-label">Password</label>
+                        <div class="input-group">
+                            <span class="input-group-addon"><i class="fa fa-lock"></i></span>
+                            <input type="password" class="form-control" id="password" required>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label class="control-label">Re-enter Password</label>
+                        <div class="input-group">
+                            <span class="input-group-addon"><i class="fa fa-lock"></i></span>
+                            <input type="password" class="form-control" id="confassword" onChange="checkPasswordMatch();" required>
+                        </div>
+                    </div>
+                    <div><strong id="CheckPasswordMatch"></strong></div>
+                </fieldset>
+
+
                 <div class="form-group">
 
-                    <button type="button" onclick="getInfo();" class="btn btn-primary">Submit</button>
+                    <button type="button" class="btn btn-primary">Submit</button>
 
                 </div>
             </form>
 
         </div>
-        <div class="col-2"></div>
+        <div class="col-3s"></div>
     </div>
 
 
@@ -132,7 +171,7 @@
 
 
 
-
+<script src="_script/script.js"></script>
 <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
 <script>
     $.get("nav.html", function(data){

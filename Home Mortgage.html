@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Home Mortgage</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link type="text/css" rel="stylesheet" href="_style/bootstrap.min.css"/>
+    <link type="text/css" rel="stylesheet" href="_style/style.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css">
+    <script src="_script/jquery-3.2.1.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.3/js/tether.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js"></script>
+
+</head>
+<body id="calc">
+<nav id="nav-placeholder"></nav>
+<div class="container-fluid">
+    <div class="row mb-5 pb-4">
+        <div class="col-8">
+            <div id="contactForm">
+            <h1>Calculate Mortgage</h1>
+            <form data-toggle="validator" role="form" id="mortfrm" class="text-left">
+                <label class="control-label"><h5>Home price</h5></label>
+                <div class="input-group">
+                    <span class="input-group-addon">$</span>
+                    <input type="text" class="form-control" id="HomePrice" name="homeprice" placeholder="$850000" required>
+                </div>
+                <label class="control-label"><h5>Down payment</h5></label>
+                <div class="input-group">
+                    <span class="input-group-addon">$</span>
+                    <input type="text" class="mr-3" id="dwnPayment" name="downprice" placeholder="$150000" required/>
+                    <input type="text" placeholder="30%" id="downper" name="downpayment"/>
+                    <span class="input-group-addon">%</span>
+                </div>
+                <label class="control-label mt-3"><h5>Mortgage term</h5></label>
+                <div class="input-group">
+                    <input type="text" id="years" name="years" placeholder="30 Years" required/>
+                    <span class="input-group-addon mr-3">Years</span>
+                    <input type="text" placeholder="360 Months" name="months" id="months"/>
+                    <span class="input-group-addon">Months</span>
+                </div>
+                <label class="control-label mt-3"><h5>Annual interest rate</h5></label>
+                <div class="input-group">
+                    <input type="text" class="mr-3" id="rate" name="apr" placeholder="3.15%" required/>
+                    <button id="calculate" class="form-control btn btn-primary">Calculate</button>
+                </div>
+            </form>
+        </div>
+        </div>
+        <div class="col-4 mt-5 pt-5">
+            <span class="text-uppercase font-weight-bold"><h2>Your Estimate Monthly Payment is:</h2></span>
+            <span id="ammount"></span>
+        </div>
+    </div>
+
+
+    <div id="footer-holder"></div>
+</div>
+
+<script src="_script/script.js"></script>
+<script>
+    $.get("nav.html", function (data) {
+        $("#nav-placeholder").replaceWith(data);
+    });
+    $.get("footer.html", function (data) {
+        $("#footer-holder").replaceWith(data);
+    });
+</script>
+</body>
+</html>
