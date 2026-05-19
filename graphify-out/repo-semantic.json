@@ -1,0 +1,79 @@
+{
+  "repo": "BankApp",
+  "title": "BankApp",
+  "purpose": "Static banking website prototype with a landing page, login flow, enroll and forgot-password pages, account page, and mortgage-oriented content.",
+  "domains": [
+    "finance",
+    "web app"
+  ],
+  "tech_stack": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "Bootstrap",
+    "jQuery"
+  ],
+  "features": [
+    "Landing page with login form and carousel-based marketing content",
+    "Enroll and forgot-password navigation",
+    "Account-related static pages",
+    "Shared navigation/footer partial loading through jQuery",
+    "Mortgage-oriented content page"
+  ],
+  "pending_state": "unknown",
+  "pending_items": [],
+  "status_confidence": "medium",
+  "main_modules": [
+    "_script",
+    "_style",
+    "_image",
+    "attachments"
+  ],
+  "key_flows": [
+    "graphify-out/GRAPH_REPORT.md",
+    "index.html"
+  ],
+  "known_outputs": [
+    "graphify-out/graph.json",
+    "graphify-out/graph.html",
+    "graphify-out/GRAPH_REPORT.md"
+  ],
+  "current_work_guess": "Older front-end prototype with no explicit active roadmap; treat the HTML pages and shared assets as the source of truth.",
+  "likely_entrypoints": [
+    "index.html",
+    "account.html",
+    "enroll.html",
+    "forgot.html"
+  ],
+  "notable_docs": [
+    "main.txt",
+    "index.html",
+    "account.html",
+    "Home Mortgage.html"
+  ],
+  "graph_stats": "133 nodes \u00b7 227 edges \u00b7 11 communities (8 shown, 3 thin omitted)",
+  "god_nodes": [
+    "$()",
+    "TetherClass",
+    "ya()",
+    "ga()",
+    "na()"
+  ],
+  "llm_start_here": [
+    "index.html",
+    "graphify-out/GRAPH_REPORT.md",
+    "account.html",
+    "_script/script.js"
+  ],
+  "suggested_next_steps": [
+    "Add a real project overview and feature summary to README.md",
+    "Document whether this prototype is static-only or intended to gain a backend"
+  ],
+  "evidence_files": [
+    "index.html",
+    "account.html",
+    "enroll.html",
+    "forgot.html",
+    "main.txt"
+  ]
+}
