@@ -18,7 +18,7 @@
       "source_file": "_script/jquery-3.2.1.min.js",
       "source_location": "L2",
       "id": "script_jquery_3_2_1_min_p",
-      "community": 6,
+      "community": 2,
       "norm_label": "p()"
     },
     {
@@ -45,7 +45,7 @@
       "source_file": "_script/jquery-3.2.1.min.js",
       "source_location": "L2",
       "id": "script_jquery_3_2_1_min_ha",
-      "community": 5,
+      "community": 2,
       "norm_label": "ha()"
     },
     {
@@ -54,7 +54,7 @@
       "source_file": "_script/jquery-3.2.1.min.js",
       "source_location": "L2",
       "id": "script_jquery_3_2_1_min_ia",
-      "community": 5,
+      "community": 2,
       "norm_label": "ia()"
     },
     {
@@ -63,7 +63,7 @@
       "source_file": "_script/jquery-3.2.1.min.js",
       "source_location": "L2",
       "id": "script_jquery_3_2_1_min_ja",
-      "community": 6,
+      "community": 2,
       "norm_label": "ja()"
     },
     {
@@ -72,7 +72,7 @@
       "source_file": "_script/jquery-3.2.1.min.js",
       "source_location": "L2",
       "id": "script_jquery_3_2_1_min_ka",
-      "community": 6,
+      "community": 2,
       "norm_label": "ka()"
     },
     {
@@ -99,7 +99,7 @@
       "source_file": "_script/jquery-3.2.1.min.js",
       "source_location": "L2",
       "id": "script_jquery_3_2_1_min_na",
-      "community": 6,
+      "community": 2,
       "norm_label": "na()"
     },
     {
@@ -108,7 +108,7 @@
       "source_file": "_script/jquery-3.2.1.min.js",
       "source_location": "L2",
       "id": "script_jquery_3_2_1_min_oa",
-      "community": 6,
+      "community": 2,
       "norm_label": "oa()"
     },
     {
@@ -117,7 +117,7 @@
       "source_file": "_script/jquery-3.2.1.min.js",
       "source_location": "L2",
       "id": "script_jquery_3_2_1_min_pa",
-      "community": 5,
+      "community": 2,
       "norm_label": "pa()"
     },
     {
@@ -126,7 +126,7 @@
       "source_file": "_script/jquery-3.2.1.min.js",
       "source_location": "L2",
       "id": "script_jquery_3_2_1_min_qa",
-      "community": 6,
+      "community": 2,
       "norm_label": "qa()"
     },
     {
@@ -162,7 +162,7 @@
       "source_file": "_script/jquery-3.2.1.min.js",
       "source_location": "L2",
       "id": "script_jquery_3_2_1_min_ua",
-      "community": 3,
+      "community": 2,
       "norm_label": "ua()"
     },
     {
@@ -171,7 +171,7 @@
       "source_file": "_script/jquery-3.2.1.min.js",
       "source_location": "L2",
       "id": "script_jquery_3_2_1_min_va",
-      "community": 3,
+      "community": 2,
       "norm_label": "va()"
     },
     {
@@ -180,7 +180,7 @@
       "source_file": "_script/jquery-3.2.1.min.js",
       "source_location": "L2",
       "id": "script_jquery_3_2_1_min_wa",
-      "community": 5,
+      "community": 2,
       "norm_label": "wa()"
     },
     {
@@ -189,7 +189,7 @@
       "source_file": "_script/jquery-3.2.1.min.js",
       "source_location": "L2",
       "id": "script_jquery_3_2_1_min_xa",
-      "community": 3,
+      "community": 2,
       "norm_label": "xa()"
     },
     {
@@ -207,7 +207,7 @@
       "source_file": "_script/jquery-3.2.1.min.js",
       "source_location": "L2",
       "id": "script_jquery_3_2_1_min_za",
-      "community": 5,
+      "community": 2,
       "norm_label": "za()"
     },
     {
@@ -216,7 +216,7 @@
       "source_file": "_script/jquery-3.2.1.min.js",
       "source_location": "L2",
       "id": "script_jquery_3_2_1_min_b",
-      "community": 6,
+      "community": 2,
       "norm_label": "b()"
     },
     {
@@ -225,7 +225,7 @@
       "source_file": "_script/jquery-3.2.1.min.js",
       "source_location": "L2",
       "id": "script_jquery_3_2_1_min_e",
-      "community": 3,
+      "community": 2,
       "norm_label": "e()"
     },
     {
@@ -234,7 +234,7 @@
       "source_file": "_script/jquery-3.2.1.min.js",
       "source_location": "L2",
       "id": "script_jquery_3_2_1_min_k",
-      "community": 7,
+      "community": 2,
       "norm_label": "k()"
     },
     {
@@ -243,7 +243,7 @@
       "source_file": "_script/jquery-3.2.1.min.js",
       "source_location": "L2",
       "id": "script_jquery_3_2_1_min_m",
-      "community": 5,
+      "community": 2,
       "norm_label": "m()"
     },
     {
@@ -270,7 +270,7 @@
       "source_file": "_script/jquery-3.2.1.min.js",
       "source_location": "L2",
       "id": "script_jquery_3_2_1_min_g",
-      "community": 7,
+      "community": 2,
       "norm_label": "g()"
     },
     {
@@ -297,7 +297,7 @@
       "source_file": "_script/jquery-3.2.1.min.js",
       "source_location": "L3",
       "id": "script_jquery_3_2_1_min",
-      "community": 4,
+      "community": 1,
       "norm_label": "$()"
     },
     {
@@ -315,7 +315,7 @@
       "source_file": "_script/jquery-3.2.1.min.js",
       "source_location": "L3",
       "id": "script_jquery_3_2_1_min_ea",
-      "community": 6,
+      "community": 2,
       "norm_label": "ea()"
     },
     {
@@ -324,7 +324,7 @@
       "source_file": "_script/jquery-3.2.1.min.js",
       "source_location": "L3",
       "id": "script_jquery_3_2_1_min_a",
-      "community": 7,
+      "community": 2,
       "norm_label": "$a()"
     },
     {
@@ -360,7 +360,7 @@
       "source_file": "_script/jquery-3.2.1.min.js",
       "source_location": "L3",
       "id": "script_jquery_3_2_1_min_hb",
-      "community": 5,
+      "community": 2,
       "norm_label": "hb()"
     },
     {
@@ -369,7 +369,7 @@
       "source_file": "_script/jquery-3.2.1.min.js",
       "source_location": "L3",
       "id": "script_jquery_3_2_1_min_ib",
-      "community": 5,
+      "community": 2,
       "norm_label": "ib()"
     },
     {
@@ -396,7 +396,7 @@
       "source_file": "_script/jquery-3.2.1.min.js",
       "source_location": "L4",
       "id": "script_jquery_3_2_1_min_pb",
-      "community": 7,
+      "community": 2,
       "norm_label": "pb()"
     },
     {
@@ -405,7 +405,7 @@
       "source_file": "_script/jquery-3.2.1.min.js",
       "source_location": "L4",
       "id": "script_jquery_3_2_1_min_qb",
-      "community": 7,
+      "community": 2,
       "norm_label": "qb()"
     },
     {
@@ -432,7 +432,7 @@
       "source_file": "_script/jquery-3.2.1.min.js",
       "source_location": "L4",
       "id": "script_jquery_3_2_1_min_nb",
-      "community": 7,
+      "community": 2,
       "norm_label": "nb()"
     },
     {
@@ -450,7 +450,7 @@
       "source_file": "_script/script.js",
       "source_location": "L1",
       "id": "script_script_js",
-      "community": 4,
+      "community": 1,
       "norm_label": "script.js"
     },
     {
@@ -459,7 +459,7 @@
       "source_file": "_script/script.js",
       "source_location": "L41",
       "id": "script_script_calculateprice",
-      "community": 4,
+      "community": 1,
       "norm_label": "calculateprice()"
     },
     {
@@ -468,7 +468,7 @@
       "source_file": "_script/script.js",
       "source_location": "L47",
       "id": "script_script_calculateperc",
-      "community": 4,
+      "community": 1,
       "norm_label": "calculateperc()"
     },
     {
@@ -477,7 +477,7 @@
       "source_file": "_script/script.js",
       "source_location": "L53",
       "id": "script_script_calculatemonths",
-      "community": 4,
+      "community": 1,
       "norm_label": "calculatemonths()"
     },
     {
@@ -486,7 +486,7 @@
       "source_file": "_script/script.js",
       "source_location": "L58",
       "id": "script_script_calculateyears",
-      "community": 4,
+      "community": 1,
       "norm_label": "calculateyears()"
     },
     {
@@ -495,7 +495,7 @@
       "source_file": "_script/script.js",
       "source_location": "L65",
       "id": "script_script_checkpasswordmatch",
-      "community": 4,
+      "community": 1,
       "norm_label": "checkpasswordmatch()"
     },
     {
@@ -891,7 +891,7 @@
       "source_file": "_script/jquery-ui.js",
       "source_location": "L512",
       "id": "script_jquery_ui_processclassstring",
-      "community": 4,
+      "community": 1,
       "norm_label": "processclassstring()"
     },
     {
@@ -900,7 +900,7 @@
       "source_file": "_script/jquery-ui.js",
       "source_location": "L595",
       "id": "script_jquery_ui_handlerproxy",
-      "community": 4,
+      "community": 1,
       "norm_label": "handlerproxy()"
     },
     {
@@ -999,7 +999,7 @@
       "source_file": "_script/jquery-ui.js",
       "source_location": "L2687",
       "id": "script_jquery_ui_run",
-      "community": 4,
+      "community": 1,
       "norm_label": "run()"
     },
     {
@@ -1017,7 +1017,7 @@
       "source_file": "_script/jquery-ui.js",
       "source_location": "L3219",
       "id": "script_jquery_ui_childcomplete",
-      "community": 9,
+      "community": 1,
       "norm_label": "childcomplete()"
     },
     {
@@ -1026,7 +1026,7 @@
       "source_file": "_script/jquery-ui.js",
       "source_location": "L3269",
       "id": "script_jquery_ui_animcomplete",
-      "community": 9,
+      "community": 1,
       "norm_label": "animcomplete()"
     },
     {
@@ -1062,7 +1062,7 @@
       "source_file": "_script/jquery-ui.js",
       "source_location": "L7218",
       "id": "script_jquery_ui_datepicker",
-      "community": 4,
+      "community": 1,
       "norm_label": "datepicker()"
     },
     {
@@ -1071,7 +1071,7 @@
       "source_file": "_script/jquery-ui.js",
       "source_location": "L9184",
       "id": "script_jquery_ui_datepicker_bindhover",
-      "community": 4,
+      "community": 1,
       "norm_label": "datepicker_bindhover()"
     },
     {
@@ -1080,7 +1080,7 @@
       "source_file": "_script/jquery-ui.js",
       "source_location": "L9198",
       "id": "script_jquery_ui_datepicker_handlemouseover",
-      "community": 4,
+      "community": 1,
       "norm_label": "datepicker_handlemouseover()"
     },
     {
@@ -1161,7 +1161,7 @@
       "source_file": "_script/jquery-ui.js",
       "source_location": "L17926",
       "id": "script_jquery_ui_complete",
-      "community": 10,
+      "community": 1,
       "norm_label": "complete()"
     },
     {
@@ -1170,7 +1170,7 @@
       "source_file": "_script/jquery-ui.js",
       "source_location": "L17931",
       "id": "script_jquery_ui_show",
-      "community": 10,
+      "community": 1,
       "norm_label": "show()"
     },
     {
@@ -1199,6 +1199,978 @@
       "id": "bankapp_readme_bankapp",
       "community": 8,
       "norm_label": "bankapp"
+    },
+    {
+      "label": "What this repo does",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L5",
+      "id": "bankapp_readme_what_this_repo_does",
+      "community": 8,
+      "norm_label": "what this repo does"
+    },
+    {
+      "label": "Main files",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L13",
+      "id": "bankapp_readme_main_files",
+      "community": 8,
+      "norm_label": "main files"
+    },
+    {
+      "label": "Start here",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L26",
+      "id": "bankapp_readme_start_here",
+      "community": 8,
+      "norm_label": "start here"
+    },
+    {
+      "label": "Status",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L32",
+      "id": "bankapp_readme_status",
+      "community": 8,
+      "norm_label": "status"
+    },
+    {
+      "label": "Quick Repo Summary",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L38",
+      "id": "bankapp_readme_quick_repo_summary",
+      "community": 8,
+      "norm_label": "quick repo summary"
+    },
+    {
+      "label": "LLM Start Here",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L45",
+      "id": "bankapp_readme_llm_start_here",
+      "community": 8,
+      "norm_label": "llm start here"
+    },
+    {
+      "label": "project_context.md",
+      "file_type": "document",
+      "source_file": ".claude/project_context.md",
+      "source_location": "L1",
+      "id": "claude_project_context_md",
+      "community": 4,
+      "norm_label": "project_context.md"
+    },
+    {
+      "label": "BankApp Project Context",
+      "file_type": "document",
+      "source_file": ".claude/project_context.md",
+      "source_location": "L1",
+      "id": "claude_project_context_bankapp_project_context",
+      "community": 4,
+      "norm_label": "bankapp project context"
+    },
+    {
+      "label": "Business Purpose",
+      "file_type": "document",
+      "source_file": ".claude/project_context.md",
+      "source_location": "L5",
+      "id": "claude_project_context_business_purpose",
+      "community": 4,
+      "norm_label": "business purpose"
+    },
+    {
+      "label": "System Overview",
+      "file_type": "document",
+      "source_file": ".claude/project_context.md",
+      "source_location": "L8",
+      "id": "claude_project_context_system_overview",
+      "community": 4,
+      "norm_label": "system overview"
+    },
+    {
+      "label": "Major Applications",
+      "file_type": "document",
+      "source_file": ".claude/project_context.md",
+      "source_location": "L11",
+      "id": "claude_project_context_major_applications",
+      "community": 4,
+      "norm_label": "major applications"
+    },
+    {
+      "label": "Environments",
+      "file_type": "document",
+      "source_file": ".claude/project_context.md",
+      "source_location": "L14",
+      "id": "claude_project_context_environments",
+      "community": 4,
+      "norm_label": "environments"
+    },
+    {
+      "label": "Tech Stack",
+      "file_type": "document",
+      "source_file": ".claude/project_context.md",
+      "source_location": "L17",
+      "id": "claude_project_context_tech_stack",
+      "community": 4,
+      "norm_label": "tech stack"
+    },
+    {
+      "label": "Critical Dependencies",
+      "file_type": "document",
+      "source_file": ".claude/project_context.md",
+      "source_location": "L24",
+      "id": "claude_project_context_critical_dependencies",
+      "community": 4,
+      "norm_label": "critical dependencies"
+    },
+    {
+      "label": "Major Workflows",
+      "file_type": "document",
+      "source_file": ".claude/project_context.md",
+      "source_location": "L27",
+      "id": "claude_project_context_major_workflows",
+      "community": 4,
+      "norm_label": "major workflows"
+    },
+    {
+      "label": "Operational Constraints",
+      "file_type": "document",
+      "source_file": ".claude/project_context.md",
+      "source_location": "L34",
+      "id": "claude_project_context_operational_constraints",
+      "community": 4,
+      "norm_label": "operational constraints"
+    },
+    {
+      "label": "Scaling Constraints",
+      "file_type": "document",
+      "source_file": ".claude/project_context.md",
+      "source_location": "L37",
+      "id": "claude_project_context_scaling_constraints",
+      "community": 4,
+      "norm_label": "scaling constraints"
+    },
+    {
+      "label": "Deployment Model",
+      "file_type": "document",
+      "source_file": ".claude/project_context.md",
+      "source_location": "L40",
+      "id": "claude_project_context_deployment_model",
+      "community": 4,
+      "norm_label": "deployment model"
+    },
+    {
+      "label": "Important APIs",
+      "file_type": "document",
+      "source_file": ".claude/project_context.md",
+      "source_location": "L43",
+      "id": "claude_project_context_important_apis",
+      "community": 4,
+      "norm_label": "important apis"
+    },
+    {
+      "label": "Important Databases",
+      "file_type": "document",
+      "source_file": ".claude/project_context.md",
+      "source_location": "L46",
+      "id": "claude_project_context_important_databases",
+      "community": 4,
+      "norm_label": "important databases"
+    },
+    {
+      "label": "Important Queues / Events",
+      "file_type": "document",
+      "source_file": ".claude/project_context.md",
+      "source_location": "L49",
+      "id": "claude_project_context_important_queues_events",
+      "community": 4,
+      "norm_label": "important queues / events"
+    },
+    {
+      "label": "Known Technical Debt",
+      "file_type": "document",
+      "source_file": ".claude/project_context.md",
+      "source_location": "L52",
+      "id": "claude_project_context_known_technical_debt",
+      "community": 4,
+      "norm_label": "known technical debt"
+    },
+    {
+      "label": "Current Architecture Themes",
+      "file_type": "document",
+      "source_file": ".claude/project_context.md",
+      "source_location": "L55",
+      "id": "claude_project_context_current_architecture_themes",
+      "community": 4,
+      "norm_label": "current architecture themes"
+    },
+    {
+      "label": "workflows.md",
+      "file_type": "document",
+      "source_file": ".claude/workflows.md",
+      "source_location": "L1",
+      "id": "claude_workflows_md",
+      "community": 7,
+      "norm_label": "workflows.md"
+    },
+    {
+      "label": "BankApp Workflows",
+      "file_type": "document",
+      "source_file": ".claude/workflows.md",
+      "source_location": "L1",
+      "id": "claude_workflows_bankapp_workflows",
+      "community": 7,
+      "norm_label": "bankapp workflows"
+    },
+    {
+      "label": "Local Development",
+      "file_type": "document",
+      "source_file": ".claude/workflows.md",
+      "source_location": "L3",
+      "id": "claude_workflows_local_development",
+      "community": 7,
+      "norm_label": "local development"
+    },
+    {
+      "label": "Testing",
+      "file_type": "document",
+      "source_file": ".claude/workflows.md",
+      "source_location": "L6",
+      "id": "claude_workflows_testing",
+      "community": 7,
+      "norm_label": "testing"
+    },
+    {
+      "label": "Deployment",
+      "file_type": "document",
+      "source_file": ".claude/workflows.md",
+      "source_location": "L9",
+      "id": "claude_workflows_deployment",
+      "community": 7,
+      "norm_label": "deployment"
+    },
+    {
+      "label": "Migrations",
+      "file_type": "document",
+      "source_file": ".claude/workflows.md",
+      "source_location": "L12",
+      "id": "claude_workflows_migrations",
+      "community": 7,
+      "norm_label": "migrations"
+    },
+    {
+      "label": "Feature Rollout",
+      "file_type": "document",
+      "source_file": ".claude/workflows.md",
+      "source_location": "L15",
+      "id": "claude_workflows_feature_rollout",
+      "community": 7,
+      "norm_label": "feature rollout"
+    },
+    {
+      "label": "Incident Response",
+      "file_type": "document",
+      "source_file": ".claude/workflows.md",
+      "source_location": "L19",
+      "id": "claude_workflows_incident_response",
+      "community": 7,
+      "norm_label": "incident response"
+    },
+    {
+      "label": "Debugging",
+      "file_type": "document",
+      "source_file": ".claude/workflows.md",
+      "source_location": "L24",
+      "id": "claude_workflows_debugging",
+      "community": 7,
+      "norm_label": "debugging"
+    },
+    {
+      "label": "Rollback",
+      "file_type": "document",
+      "source_file": ".claude/workflows.md",
+      "source_location": "L29",
+      "id": "claude_workflows_rollback",
+      "community": 7,
+      "norm_label": "rollback"
+    },
+    {
+      "label": "Observability Investigation",
+      "file_type": "document",
+      "source_file": ".claude/workflows.md",
+      "source_location": "L34",
+      "id": "claude_workflows_observability_investigation",
+      "community": 7,
+      "norm_label": "observability investigation"
+    },
+    {
+      "label": "architecture.md",
+      "file_type": "document",
+      "source_file": ".claude/architecture.md",
+      "source_location": "L1",
+      "id": "claude_architecture_md",
+      "community": 6,
+      "norm_label": "architecture.md"
+    },
+    {
+      "label": "BankApp Architecture",
+      "file_type": "document",
+      "source_file": ".claude/architecture.md",
+      "source_location": "L1",
+      "id": "claude_architecture_bankapp_architecture",
+      "community": 6,
+      "norm_label": "bankapp architecture"
+    },
+    {
+      "label": "End-to-End Request Flows",
+      "file_type": "document",
+      "source_file": ".claude/architecture.md",
+      "source_location": "L3",
+      "id": "claude_architecture_end_to_end_request_flows",
+      "community": 6,
+      "norm_label": "end-to-end request flows"
+    },
+    {
+      "label": "Frontend / Backend Interaction",
+      "file_type": "document",
+      "source_file": ".claude/architecture.md",
+      "source_location": "L6",
+      "id": "claude_architecture_frontend_backend_interaction",
+      "community": 6,
+      "norm_label": "frontend / backend interaction"
+    },
+    {
+      "label": "Service Boundaries",
+      "file_type": "document",
+      "source_file": ".claude/architecture.md",
+      "source_location": "L10",
+      "id": "claude_architecture_service_boundaries",
+      "community": 6,
+      "norm_label": "service boundaries"
+    },
+    {
+      "label": "Sync vs Async Flows",
+      "file_type": "document",
+      "source_file": ".claude/architecture.md",
+      "source_location": "L13",
+      "id": "claude_architecture_sync_vs_async_flows",
+      "community": 6,
+      "norm_label": "sync vs async flows"
+    },
+    {
+      "label": "Event-Driven Architecture",
+      "file_type": "document",
+      "source_file": ".claude/architecture.md",
+      "source_location": "L16",
+      "id": "claude_architecture_event_driven_architecture",
+      "community": 6,
+      "norm_label": "event-driven architecture"
+    },
+    {
+      "label": "Caching Layers",
+      "file_type": "document",
+      "source_file": ".claude/architecture.md",
+      "source_location": "L19",
+      "id": "claude_architecture_caching_layers",
+      "community": 6,
+      "norm_label": "caching layers"
+    },
+    {
+      "label": "Auth Flow",
+      "file_type": "document",
+      "source_file": ".claude/architecture.md",
+      "source_location": "L22",
+      "id": "claude_architecture_auth_flow",
+      "community": 6,
+      "norm_label": "auth flow"
+    },
+    {
+      "label": "Deployment Topology",
+      "file_type": "document",
+      "source_file": ".claude/architecture.md",
+      "source_location": "L25",
+      "id": "claude_architecture_deployment_topology",
+      "community": 6,
+      "norm_label": "deployment topology"
+    },
+    {
+      "label": "Scaling Behavior",
+      "file_type": "document",
+      "source_file": ".claude/architecture.md",
+      "source_location": "L28",
+      "id": "claude_architecture_scaling_behavior",
+      "community": 6,
+      "norm_label": "scaling behavior"
+    },
+    {
+      "label": "Resilience Mechanisms",
+      "file_type": "document",
+      "source_file": ".claude/architecture.md",
+      "source_location": "L32",
+      "id": "claude_architecture_resilience_mechanisms",
+      "community": 6,
+      "norm_label": "resilience mechanisms"
+    },
+    {
+      "label": "Failover Behavior",
+      "file_type": "document",
+      "source_file": ".claude/architecture.md",
+      "source_location": "L36",
+      "id": "claude_architecture_failover_behavior",
+      "community": 6,
+      "norm_label": "failover behavior"
+    },
+    {
+      "label": "Observability Architecture",
+      "file_type": "document",
+      "source_file": ".claude/architecture.md",
+      "source_location": "L39",
+      "id": "claude_architecture_observability_architecture",
+      "community": 6,
+      "norm_label": "observability architecture"
+    },
+    {
+      "label": "Retry / Idempotency Patterns",
+      "file_type": "document",
+      "source_file": ".claude/architecture.md",
+      "source_location": "L42",
+      "id": "claude_architecture_retry_idempotency_patterns",
+      "community": 6,
+      "norm_label": "retry / idempotency patterns"
+    },
+    {
+      "label": "repository_navigation.md",
+      "file_type": "document",
+      "source_file": ".claude/repository_navigation.md",
+      "source_location": "L1",
+      "id": "claude_repository_navigation_md",
+      "community": 12,
+      "norm_label": "repository_navigation.md"
+    },
+    {
+      "label": "Top-Level Modules",
+      "file_type": "document",
+      "source_file": ".claude/repository_navigation.md",
+      "source_location": "L1",
+      "id": "claude_repository_navigation_top_level_modules",
+      "community": 12,
+      "norm_label": "top-level modules"
+    },
+    {
+      "label": "Read First",
+      "file_type": "document",
+      "source_file": ".claude/repository_navigation.md",
+      "source_location": "L8",
+      "id": "claude_repository_navigation_read_first",
+      "community": 12,
+      "norm_label": "read first"
+    },
+    {
+      "label": "Critical Entrypoints",
+      "file_type": "document",
+      "source_file": ".claude/repository_navigation.md",
+      "source_location": "L16",
+      "id": "claude_repository_navigation_critical_entrypoints",
+      "community": 12,
+      "norm_label": "critical entrypoints"
+    },
+    {
+      "label": "graph_relationships.md",
+      "file_type": "document",
+      "source_file": ".claude/graph_relationships.md",
+      "source_location": "L1",
+      "id": "claude_graph_relationships_md",
+      "community": 13,
+      "norm_label": "graph_relationships.md"
+    },
+    {
+      "label": "BankApp Graph Relationships",
+      "file_type": "document",
+      "source_file": ".claude/graph_relationships.md",
+      "source_location": "L1",
+      "id": "claude_graph_relationships_bankapp_graph_relationships",
+      "community": 13,
+      "norm_label": "bankapp graph relationships"
+    },
+    {
+      "label": "decision_log.md",
+      "file_type": "document",
+      "source_file": ".claude/decision_log.md",
+      "source_location": "L1",
+      "id": "claude_decision_log_md",
+      "community": 11,
+      "norm_label": "decision_log.md"
+    },
+    {
+      "label": "BankApp Decision Log",
+      "file_type": "document",
+      "source_file": ".claude/decision_log.md",
+      "source_location": "L1",
+      "id": "claude_decision_log_bankapp_decision_log",
+      "community": 11,
+      "norm_label": "bankapp decision log"
+    },
+    {
+      "label": "Graphify-first repo discovery",
+      "file_type": "document",
+      "source_file": ".claude/decision_log.md",
+      "source_location": "L3",
+      "id": "claude_decision_log_graphify_first_repo_discovery",
+      "community": 11,
+      "norm_label": "graphify-first repo discovery"
+    },
+    {
+      "label": "Preserve repo separation",
+      "file_type": "document",
+      "source_file": ".claude/decision_log.md",
+      "source_location": "L9",
+      "id": "claude_decision_log_preserve_repo_separation",
+      "community": 11,
+      "norm_label": "preserve repo separation"
+    },
+    {
+      "label": "known_pitfalls.md",
+      "file_type": "document",
+      "source_file": ".claude/known_pitfalls.md",
+      "source_location": "L1",
+      "id": "claude_known_pitfalls_md",
+      "community": 14,
+      "norm_label": "known_pitfalls.md"
+    },
+    {
+      "label": "BankApp Known Pitfalls",
+      "file_type": "document",
+      "source_file": ".claude/known_pitfalls.md",
+      "source_location": "L1",
+      "id": "claude_known_pitfalls_bankapp_known_pitfalls",
+      "community": 14,
+      "norm_label": "bankapp known pitfalls"
+    },
+    {
+      "label": "onboarding.md",
+      "file_type": "document",
+      "source_file": ".claude/onboarding.md",
+      "source_location": "L1",
+      "id": "claude_onboarding_md",
+      "community": 10,
+      "norm_label": "onboarding.md"
+    },
+    {
+      "label": "BankApp Onboarding",
+      "file_type": "document",
+      "source_file": ".claude/onboarding.md",
+      "source_location": "L1",
+      "id": "claude_onboarding_bankapp_onboarding",
+      "community": 10,
+      "norm_label": "bankapp onboarding"
+    },
+    {
+      "label": "First Read",
+      "file_type": "document",
+      "source_file": ".claude/onboarding.md",
+      "source_location": "L3",
+      "id": "claude_onboarding_first_read",
+      "community": 10,
+      "norm_label": "first read"
+    },
+    {
+      "label": "Critical Entrypoints",
+      "file_type": "document",
+      "source_file": ".claude/onboarding.md",
+      "source_location": "L11",
+      "id": "claude_onboarding_critical_entrypoints",
+      "community": 10,
+      "norm_label": "critical entrypoints"
+    },
+    {
+      "label": "Module Map",
+      "file_type": "document",
+      "source_file": ".claude/onboarding.md",
+      "source_location": "L19",
+      "id": "claude_onboarding_module_map",
+      "community": 10,
+      "norm_label": "module map"
+    },
+    {
+      "label": "How To Start Reasoning",
+      "file_type": "document",
+      "source_file": ".claude/onboarding.md",
+      "source_location": "L26",
+      "id": "claude_onboarding_how_to_start_reasoning",
+      "community": 10,
+      "norm_label": "how to start reasoning"
+    },
+    {
+      "label": "Local Run Baseline",
+      "file_type": "document",
+      "source_file": ".claude/onboarding.md",
+      "source_location": "L31",
+      "id": "claude_onboarding_local_run_baseline",
+      "community": 10,
+      "norm_label": "local run baseline"
+    },
+    {
+      "label": "coding_rules.md",
+      "file_type": "document",
+      "source_file": ".claude/coding_rules.md",
+      "source_location": "L1",
+      "id": "claude_coding_rules_md",
+      "community": 9,
+      "norm_label": "coding_rules.md"
+    },
+    {
+      "label": "BankApp Coding Rules",
+      "file_type": "document",
+      "source_file": ".claude/coding_rules.md",
+      "source_location": "L1",
+      "id": "claude_coding_rules_bankapp_coding_rules",
+      "community": 9,
+      "norm_label": "bankapp coding rules"
+    },
+    {
+      "label": "Naming / Structure",
+      "file_type": "document",
+      "source_file": ".claude/coding_rules.md",
+      "source_location": "L3",
+      "id": "claude_coding_rules_naming_structure",
+      "community": 9,
+      "norm_label": "naming / structure"
+    },
+    {
+      "label": "Architecture Patterns",
+      "file_type": "document",
+      "source_file": ".claude/coding_rules.md",
+      "source_location": "L7",
+      "id": "claude_coding_rules_architecture_patterns",
+      "community": 9,
+      "norm_label": "architecture patterns"
+    },
+    {
+      "label": "State Management",
+      "file_type": "document",
+      "source_file": ".claude/coding_rules.md",
+      "source_location": "L12",
+      "id": "claude_coding_rules_state_management",
+      "community": 9,
+      "norm_label": "state management"
+    },
+    {
+      "label": "Error Handling / Logging",
+      "file_type": "document",
+      "source_file": ".claude/coding_rules.md",
+      "source_location": "L15",
+      "id": "claude_coding_rules_error_handling_logging",
+      "community": 9,
+      "norm_label": "error handling / logging"
+    },
+    {
+      "label": "API Conventions",
+      "file_type": "document",
+      "source_file": ".claude/coding_rules.md",
+      "source_location": "L20",
+      "id": "claude_coding_rules_api_conventions",
+      "community": 9,
+      "norm_label": "api conventions"
+    },
+    {
+      "label": "Testing Conventions",
+      "file_type": "document",
+      "source_file": ".claude/coding_rules.md",
+      "source_location": "L24",
+      "id": "claude_coding_rules_testing_conventions",
+      "community": 9,
+      "norm_label": "testing conventions"
+    },
+    {
+      "label": "Typing / Abstractions",
+      "file_type": "document",
+      "source_file": ".claude/coding_rules.md",
+      "source_location": "L27",
+      "id": "claude_coding_rules_typing_abstractions",
+      "community": 9,
+      "norm_label": "typing / abstractions"
+    },
+    {
+      "label": "Database / Migration Patterns",
+      "file_type": "document",
+      "source_file": ".claude/coding_rules.md",
+      "source_location": "L31",
+      "id": "claude_coding_rules_database_migration_patterns",
+      "community": 9,
+      "norm_label": "database / migration patterns"
+    },
+    {
+      "label": "system_prompt.md",
+      "file_type": "document",
+      "source_file": ".claude/system_prompt.md",
+      "source_location": "L1",
+      "id": "claude_system_prompt_md",
+      "community": 21,
+      "norm_label": "system_prompt.md"
+    },
+    {
+      "label": "BankApp Claude System Prompt",
+      "file_type": "document",
+      "source_file": ".claude/system_prompt.md",
+      "source_location": "L1",
+      "id": "claude_system_prompt_bankapp_claude_system_prompt",
+      "community": 21,
+      "norm_label": "bankapp claude system prompt"
+    },
+    {
+      "label": "debug.md",
+      "file_type": "document",
+      "source_file": ".claude/prompts/debug.md",
+      "source_location": "L1",
+      "id": "claude_prompts_debug_md",
+      "community": 16,
+      "norm_label": "debug.md"
+    },
+    {
+      "label": "Debug Prompt",
+      "file_type": "document",
+      "source_file": ".claude/prompts/debug.md",
+      "source_location": "L1",
+      "id": "prompts_debug_debug_prompt",
+      "community": 16,
+      "norm_label": "debug prompt"
+    },
+    {
+      "label": "incident_response.md",
+      "file_type": "document",
+      "source_file": ".claude/prompts/incident_response.md",
+      "source_location": "L1",
+      "id": "claude_prompts_incident_response_md",
+      "community": 18,
+      "norm_label": "incident_response.md"
+    },
+    {
+      "label": "Incident Response Prompt",
+      "file_type": "document",
+      "source_file": ".claude/prompts/incident_response.md",
+      "source_location": "L1",
+      "id": "prompts_incident_response_incident_response_prompt",
+      "community": 18,
+      "norm_label": "incident response prompt"
+    },
+    {
+      "label": "architecture_review.md",
+      "file_type": "document",
+      "source_file": ".claude/prompts/architecture_review.md",
+      "source_location": "L1",
+      "id": "claude_prompts_architecture_review_md",
+      "community": 15,
+      "norm_label": "architecture_review.md"
+    },
+    {
+      "label": "Architecture Review Prompt",
+      "file_type": "document",
+      "source_file": ".claude/prompts/architecture_review.md",
+      "source_location": "L1",
+      "id": "prompts_architecture_review_architecture_review_prompt",
+      "community": 15,
+      "norm_label": "architecture review prompt"
+    },
+    {
+      "label": "refactor.md",
+      "file_type": "document",
+      "source_file": ".claude/prompts/refactor.md",
+      "source_location": "L1",
+      "id": "claude_prompts_refactor_md",
+      "community": 20,
+      "norm_label": "refactor.md"
+    },
+    {
+      "label": "Refactor Prompt",
+      "file_type": "document",
+      "source_file": ".claude/prompts/refactor.md",
+      "source_location": "L1",
+      "id": "prompts_refactor_refactor_prompt",
+      "community": 20,
+      "norm_label": "refactor prompt"
+    },
+    {
+      "label": "feature.md",
+      "file_type": "document",
+      "source_file": ".claude/prompts/feature.md",
+      "source_location": "L1",
+      "id": "claude_prompts_feature_md",
+      "community": 17,
+      "norm_label": "feature.md"
+    },
+    {
+      "label": "Feature Prompt",
+      "file_type": "document",
+      "source_file": ".claude/prompts/feature.md",
+      "source_location": "L1",
+      "id": "prompts_feature_feature_prompt",
+      "community": 17,
+      "norm_label": "feature prompt"
+    },
+    {
+      "label": "performance_analysis.md",
+      "file_type": "document",
+      "source_file": ".claude/prompts/performance_analysis.md",
+      "source_location": "L1",
+      "id": "claude_prompts_performance_analysis_md",
+      "community": 19,
+      "norm_label": "performance_analysis.md"
+    },
+    {
+      "label": "Performance Analysis Prompt",
+      "file_type": "document",
+      "source_file": ".claude/prompts/performance_analysis.md",
+      "source_location": "L1",
+      "id": "prompts_performance_analysis_performance_analysis_prompt",
+      "community": 19,
+      "norm_label": "performance analysis prompt"
+    },
+    {
+      "label": "primary-app.md",
+      "file_type": "document",
+      "source_file": ".claude/services/primary-app.md",
+      "source_location": "L1",
+      "id": "claude_services_primary_app_md",
+      "community": 5,
+      "norm_label": "primary-app.md"
+    },
+    {
+      "label": "Primary App",
+      "file_type": "document",
+      "source_file": ".claude/services/primary-app.md",
+      "source_location": "L1",
+      "id": "services_primary_app_primary_app",
+      "community": 5,
+      "norm_label": "primary app"
+    },
+    {
+      "label": "Responsibility",
+      "file_type": "document",
+      "source_file": ".claude/services/primary-app.md",
+      "source_location": "L3",
+      "id": "services_primary_app_responsibility",
+      "community": 5,
+      "norm_label": "responsibility"
+    },
+    {
+      "label": "Dependencies",
+      "file_type": "document",
+      "source_file": ".claude/services/primary-app.md",
+      "source_location": "L6",
+      "id": "services_primary_app_dependencies",
+      "community": 5,
+      "norm_label": "dependencies"
+    },
+    {
+      "label": "Inbound APIs",
+      "file_type": "document",
+      "source_file": ".claude/services/primary-app.md",
+      "source_location": "L13",
+      "id": "services_primary_app_inbound_apis",
+      "community": 5,
+      "norm_label": "inbound apis"
+    },
+    {
+      "label": "Outbound APIs",
+      "file_type": "document",
+      "source_file": ".claude/services/primary-app.md",
+      "source_location": "L16",
+      "id": "services_primary_app_outbound_apis",
+      "community": 5,
+      "norm_label": "outbound apis"
+    },
+    {
+      "label": "Databases Used",
+      "file_type": "document",
+      "source_file": ".claude/services/primary-app.md",
+      "source_location": "L19",
+      "id": "services_primary_app_databases_used",
+      "community": 5,
+      "norm_label": "databases used"
+    },
+    {
+      "label": "Queues / Topics",
+      "file_type": "document",
+      "source_file": ".claude/services/primary-app.md",
+      "source_location": "L22",
+      "id": "services_primary_app_queues_topics",
+      "community": 5,
+      "norm_label": "queues / topics"
+    },
+    {
+      "label": "Critical Workflows",
+      "file_type": "document",
+      "source_file": ".claude/services/primary-app.md",
+      "source_location": "L25",
+      "id": "services_primary_app_critical_workflows",
+      "community": 5,
+      "norm_label": "critical workflows"
+    },
+    {
+      "label": "Failure Modes",
+      "file_type": "document",
+      "source_file": ".claude/services/primary-app.md",
+      "source_location": "L32",
+      "id": "services_primary_app_failure_modes",
+      "community": 5,
+      "norm_label": "failure modes"
+    },
+    {
+      "label": "Scaling Concerns",
+      "file_type": "document",
+      "source_file": ".claude/services/primary-app.md",
+      "source_location": "L35",
+      "id": "services_primary_app_scaling_concerns",
+      "community": 5,
+      "norm_label": "scaling concerns"
+    },
+    {
+      "label": "Operational Concerns",
+      "file_type": "document",
+      "source_file": ".claude/services/primary-app.md",
+      "source_location": "L39",
+      "id": "services_primary_app_operational_concerns",
+      "community": 5,
+      "norm_label": "operational concerns"
+    },
+    {
+      "label": "Important Source Files",
+      "file_type": "document",
+      "source_file": ".claude/services/primary-app.md",
+      "source_location": "L43",
+      "id": "services_primary_app_important_source_files",
+      "community": 5,
+      "norm_label": "important source files"
+    },
+    {
+      "label": "Dangerous Code Paths",
+      "file_type": "document",
+      "source_file": ".claude/services/primary-app.md",
+      "source_location": "L51",
+      "id": "services_primary_app_dangerous_code_paths",
+      "community": 5,
+      "norm_label": "dangerous code paths"
+    },
+    {
+      "label": "Testing Strategy",
+      "file_type": "document",
+      "source_file": ".claude/services/primary-app.md",
+      "source_location": "L54",
+      "id": "services_primary_app_testing_strategy",
+      "community": 5,
+      "norm_label": "testing strategy"
+    },
+    {
+      "label": "Known Technical Debt",
+      "file_type": "document",
+      "source_file": ".claude/services/primary-app.md",
+      "source_location": "L57",
+      "id": "services_primary_app_known_technical_debt",
+      "community": 5,
+      "norm_label": "known technical debt"
     }
   ],
   "links": [
@@ -1208,9 +2180,9 @@
       "source_file": "_script/jquery-3.2.1.min.js",
       "source_location": "L2",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_jquery_3_2_1_min_js",
-      "target": "script_jquery_3_2_1_min_p",
-      "confidence_score": 1.0
+      "target": "script_jquery_3_2_1_min_p"
     },
     {
       "relation": "contains",
@@ -1218,9 +2190,9 @@
       "source_file": "_script/jquery-3.2.1.min.js",
       "source_location": "L2",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_jquery_3_2_1_min_js",
-      "target": "script_jquery_3_2_1_min_w",
-      "confidence_score": 1.0
+      "target": "script_jquery_3_2_1_min_w"
     },
     {
       "relation": "contains",
@@ -1228,9 +2200,9 @@
       "source_file": "_script/jquery-3.2.1.min.js",
       "source_location": "L3",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_jquery_3_2_1_min_js",
-      "target": "script_jquery_3_2_1_min_ga",
-      "confidence_score": 1.0
+      "target": "script_jquery_3_2_1_min_ga"
     },
     {
       "relation": "contains",
@@ -1238,9 +2210,9 @@
       "source_file": "_script/jquery-3.2.1.min.js",
       "source_location": "L3",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_jquery_3_2_1_min_js",
-      "target": "script_jquery_3_2_1_min_ha",
-      "confidence_score": 1.0
+      "target": "script_jquery_3_2_1_min_ha"
     },
     {
       "relation": "contains",
@@ -1248,9 +2220,9 @@
       "source_file": "_script/jquery-3.2.1.min.js",
       "source_location": "L3",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_jquery_3_2_1_min_js",
-      "target": "script_jquery_3_2_1_min_ia",
-      "confidence_score": 1.0
+      "target": "script_jquery_3_2_1_min_ia"
     },
     {
       "relation": "contains",
@@ -1258,9 +2230,9 @@
       "source_file": "_script/jquery-3.2.1.min.js",
       "source_location": "L3",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_jquery_3_2_1_min_js",
-      "target": "script_jquery_3_2_1_min_ja",
-      "confidence_score": 1.0
+      "target": "script_jquery_3_2_1_min_ja"
     },
     {
       "relation": "contains",
@@ -1268,9 +2240,9 @@
       "source_file": "_script/jquery-3.2.1.min.js",
       "source_location": "L3",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_jquery_3_2_1_min_js",
-      "target": "script_jquery_3_2_1_min_ka",
-      "confidence_score": 1.0
+      "target": "script_jquery_3_2_1_min_ka"
     },
     {
       "relation": "contains",
@@ -1278,9 +2250,9 @@
       "source_file": "_script/jquery-3.2.1.min.js",
       "source_location": "L2",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_jquery_3_2_1_min_js",
-      "target": "script_jquery_3_2_1_min_la",
-      "confidence_score": 1.0
+      "target": "script_jquery_3_2_1_min_la"
     },
     {
       "relation": "contains",
@@ -1288,9 +2260,9 @@
       "source_file": "_script/jquery-3.2.1.min.js",
       "source_location": "L2",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_jquery_3_2_1_min_js",
-      "target": "script_jquery_3_2_1_min_ma",
-      "confidence_score": 1.0
+      "target": "script_jquery_3_2_1_min_ma"
     },
     {
       "relation": "contains",
@@ -1298,9 +2270,9 @@
       "source_file": "_script/jquery-3.2.1.min.js",
       "source_location": "L3",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_jquery_3_2_1_min_js",
-      "target": "script_jquery_3_2_1_min_na",
-      "confidence_score": 1.0
+      "target": "script_jquery_3_2_1_min_na"
     },
     {
       "relation": "contains",
@@ -1308,9 +2280,9 @@
       "source_file": "_script/jquery-3.2.1.min.js",
       "source_location": "L3",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_jquery_3_2_1_min_js",
-      "target": "script_jquery_3_2_1_min_oa",
-      "confidence_score": 1.0
+      "target": "script_jquery_3_2_1_min_oa"
     },
     {
       "relation": "contains",
@@ -1318,9 +2290,9 @@
       "source_file": "_script/jquery-3.2.1.min.js",
       "source_location": "L3",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_jquery_3_2_1_min_js",
-      "target": "script_jquery_3_2_1_min_pa",
-      "confidence_score": 1.0
+      "target": "script_jquery_3_2_1_min_pa"
     },
     {
       "relation": "contains",
@@ -1328,9 +2300,9 @@
       "source_file": "_script/jquery-3.2.1.min.js",
       "source_location": "L3",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_jquery_3_2_1_min_js",
-      "target": "script_jquery_3_2_1_min_qa",
-      "confidence_score": 1.0
+      "target": "script_jquery_3_2_1_min_qa"
     },
     {
       "relation": "contains",
@@ -1338,9 +2310,9 @@
       "source_file": "_script/jquery-3.2.1.min.js",
       "source_location": "L2",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_jquery_3_2_1_min_js",
-      "target": "script_jquery_3_2_1_min_ra",
-      "confidence_score": 1.0
+      "target": "script_jquery_3_2_1_min_ra"
     },
     {
       "relation": "contains",
@@ -1348,9 +2320,9 @@
       "source_file": "_script/jquery-3.2.1.min.js",
       "source_location": "L2",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_jquery_3_2_1_min_js",
-      "target": "script_jquery_3_2_1_min_sa",
-      "confidence_score": 1.0
+      "target": "script_jquery_3_2_1_min_sa"
     },
     {
       "relation": "contains",
@@ -1358,9 +2330,9 @@
       "source_file": "_script/jquery-3.2.1.min.js",
       "source_location": "L2",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_jquery_3_2_1_min_js",
-      "target": "script_jquery_3_2_1_min_ta",
-      "confidence_score": 1.0
+      "target": "script_jquery_3_2_1_min_ta"
     },
     {
       "relation": "contains",
@@ -1368,9 +2340,9 @@
       "source_file": "_script/jquery-3.2.1.min.js",
       "source_location": "L2",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_jquery_3_2_1_min_js",
-      "target": "script_jquery_3_2_1_min_ua",
-      "confidence_score": 1.0
+      "target": "script_jquery_3_2_1_min_ua"
     },
     {
       "relation": "contains",
@@ -1378,9 +2350,9 @@
       "source_file": "_script/jquery-3.2.1.min.js",
       "source_location": "L3",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_jquery_3_2_1_min_js",
-      "target": "script_jquery_3_2_1_min_va",
-      "confidence_score": 1.0
+      "target": "script_jquery_3_2_1_min_va"
     },
     {
       "relation": "contains",
@@ -1388,9 +2360,9 @@
       "source_file": "_script/jquery-3.2.1.min.js",
       "source_location": "L3",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_jquery_3_2_1_min_js",
-      "target": "script_jquery_3_2_1_min_wa",
-      "confidence_score": 1.0
+      "target": "script_jquery_3_2_1_min_wa"
     },
     {
       "relation": "contains",
@@ -1398,9 +2370,9 @@
       "source_file": "_script/jquery-3.2.1.min.js",
       "source_location": "L3",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_jquery_3_2_1_min_js",
-      "target": "script_jquery_3_2_1_min_xa",
-      "confidence_score": 1.0
+      "target": "script_jquery_3_2_1_min_xa"
     },
     {
       "relation": "contains",
@@ -1408,9 +2380,9 @@
       "source_file": "_script/jquery-3.2.1.min.js",
       "source_location": "L3",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_jquery_3_2_1_min_js",
-      "target": "script_jquery_3_2_1_min_ya",
-      "confidence_score": 1.0
+      "target": "script_jquery_3_2_1_min_ya"
     },
     {
       "relation": "contains",
@@ -1418,9 +2390,9 @@
       "source_file": "_script/jquery-3.2.1.min.js",
       "source_location": "L3",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_jquery_3_2_1_min_js",
-      "target": "script_jquery_3_2_1_min_za",
-      "confidence_score": 1.0
+      "target": "script_jquery_3_2_1_min_za"
     },
     {
       "relation": "contains",
@@ -1428,9 +2400,9 @@
       "source_file": "_script/jquery-3.2.1.min.js",
       "source_location": "L3",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_jquery_3_2_1_min_js",
-      "target": "script_jquery_3_2_1_min_b",
-      "confidence_score": 1.0
+      "target": "script_jquery_3_2_1_min_b"
     },
     {
       "relation": "contains",
@@ -1438,9 +2410,9 @@
       "source_file": "_script/jquery-3.2.1.min.js",
       "source_location": "L2",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_jquery_3_2_1_min_js",
-      "target": "script_jquery_3_2_1_min_e",
-      "confidence_score": 1.0
+      "target": "script_jquery_3_2_1_min_e"
     },
     {
       "relation": "contains",
@@ -1448,9 +2420,9 @@
       "source_file": "_script/jquery-3.2.1.min.js",
       "source_location": "L2",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_jquery_3_2_1_min_js",
-      "target": "script_jquery_3_2_1_min_k",
-      "confidence_score": 1.0
+      "target": "script_jquery_3_2_1_min_k"
     },
     {
       "relation": "contains",
@@ -1458,9 +2430,9 @@
       "source_file": "_script/jquery-3.2.1.min.js",
       "source_location": "L2",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_jquery_3_2_1_min_js",
-      "target": "script_jquery_3_2_1_min_m",
-      "confidence_score": 1.0
+      "target": "script_jquery_3_2_1_min_m"
     },
     {
       "relation": "contains",
@@ -1468,9 +2440,9 @@
       "source_file": "_script/jquery-3.2.1.min.js",
       "source_location": "L2",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_jquery_3_2_1_min_js",
-      "target": "script_jquery_3_2_1_min_n",
-      "confidence_score": 1.0
+      "target": "script_jquery_3_2_1_min_n"
     },
     {
       "relation": "contains",
@@ -1478,9 +2450,9 @@
       "source_file": "_script/jquery-3.2.1.min.js",
       "source_location": "L2",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_jquery_3_2_1_min_js",
-      "target": "script_jquery_3_2_1_min_o",
-      "confidence_score": 1.0
+      "target": "script_jquery_3_2_1_min_o"
     },
     {
       "relation": "contains",
@@ -1488,9 +2460,9 @@
       "source_file": "_script/jquery-3.2.1.min.js",
       "source_location": "L2",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_jquery_3_2_1_min_js",
-      "target": "script_jquery_3_2_1_min_g",
-      "confidence_score": 1.0
+      "target": "script_jquery_3_2_1_min_g"
     },
     {
       "relation": "contains",
@@ -1498,9 +2470,9 @@
       "source_file": "_script/jquery-3.2.1.min.js",
       "source_location": "L2",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_jquery_3_2_1_min_js",
-      "target": "script_jquery_3_2_1_min_s",
-      "confidence_score": 1.0
+      "target": "script_jquery_3_2_1_min_s"
     },
     {
       "relation": "contains",
@@ -1508,9 +2480,9 @@
       "source_file": "_script/jquery-3.2.1.min.js",
       "source_location": "L3",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_jquery_3_2_1_min_js",
-      "target": "script_jquery_3_2_1_min_v",
-      "confidence_score": 1.0
+      "target": "script_jquery_3_2_1_min_v"
     },
     {
       "relation": "contains",
@@ -1518,9 +2490,9 @@
       "source_file": "_script/jquery-3.2.1.min.js",
       "source_location": "L3",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_jquery_3_2_1_min_js",
-      "target": "script_jquery_3_2_1_min",
-      "confidence_score": 1.0
+      "target": "script_jquery_3_2_1_min"
     },
     {
       "relation": "contains",
@@ -1528,9 +2500,9 @@
       "source_file": "_script/jquery-3.2.1.min.js",
       "source_location": "L3",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_jquery_3_2_1_min_js",
-      "target": "script_jquery_3_2_1_min_fa",
-      "confidence_score": 1.0
+      "target": "script_jquery_3_2_1_min_fa"
     },
     {
       "relation": "contains",
@@ -1538,9 +2510,9 @@
       "source_file": "_script/jquery-3.2.1.min.js",
       "source_location": "L3",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_jquery_3_2_1_min_js",
-      "target": "script_jquery_3_2_1_min_ea",
-      "confidence_score": 1.0
+      "target": "script_jquery_3_2_1_min_ea"
     },
     {
       "relation": "contains",
@@ -1548,9 +2520,9 @@
       "source_file": "_script/jquery-3.2.1.min.js",
       "source_location": "L4",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_jquery_3_2_1_min_js",
-      "target": "script_jquery_3_2_1_min_a",
-      "confidence_score": 1.0
+      "target": "script_jquery_3_2_1_min_a"
     },
     {
       "relation": "contains",
@@ -1558,9 +2530,9 @@
       "source_file": "_script/jquery-3.2.1.min.js",
       "source_location": "L3",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_jquery_3_2_1_min_js",
-      "target": "script_jquery_3_2_1_min_eb",
-      "confidence_score": 1.0
+      "target": "script_jquery_3_2_1_min_eb"
     },
     {
       "relation": "contains",
@@ -1568,9 +2540,9 @@
       "source_file": "_script/jquery-3.2.1.min.js",
       "source_location": "L3",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_jquery_3_2_1_min_js",
-      "target": "script_jquery_3_2_1_min_fb",
-      "confidence_score": 1.0
+      "target": "script_jquery_3_2_1_min_fb"
     },
     {
       "relation": "contains",
@@ -1578,9 +2550,9 @@
       "source_file": "_script/jquery-3.2.1.min.js",
       "source_location": "L3",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_jquery_3_2_1_min_js",
-      "target": "script_jquery_3_2_1_min_gb",
-      "confidence_score": 1.0
+      "target": "script_jquery_3_2_1_min_gb"
     },
     {
       "relation": "contains",
@@ -1588,9 +2560,9 @@
       "source_file": "_script/jquery-3.2.1.min.js",
       "source_location": "L3",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_jquery_3_2_1_min_js",
-      "target": "script_jquery_3_2_1_min_hb",
-      "confidence_score": 1.0
+      "target": "script_jquery_3_2_1_min_hb"
     },
     {
       "relation": "contains",
@@ -1598,9 +2570,9 @@
       "source_file": "_script/jquery-3.2.1.min.js",
       "source_location": "L3",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_jquery_3_2_1_min_js",
-      "target": "script_jquery_3_2_1_min_ib",
-      "confidence_score": 1.0
+      "target": "script_jquery_3_2_1_min_ib"
     },
     {
       "relation": "contains",
@@ -1608,9 +2580,9 @@
       "source_file": "_script/jquery-3.2.1.min.js",
       "source_location": "L3",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_jquery_3_2_1_min_js",
-      "target": "script_jquery_3_2_1_min_jb",
-      "confidence_score": 1.0
+      "target": "script_jquery_3_2_1_min_jb"
     },
     {
       "relation": "contains",
@@ -1618,9 +2590,9 @@
       "source_file": "_script/jquery-3.2.1.min.js",
       "source_location": "L3",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_jquery_3_2_1_min_js",
-      "target": "script_jquery_3_2_1_min_kb",
-      "confidence_score": 1.0
+      "target": "script_jquery_3_2_1_min_kb"
     },
     {
       "relation": "contains",
@@ -1628,9 +2600,9 @@
       "source_file": "_script/jquery-3.2.1.min.js",
       "source_location": "L4",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_jquery_3_2_1_min_js",
-      "target": "script_jquery_3_2_1_min_pb",
-      "confidence_score": 1.0
+      "target": "script_jquery_3_2_1_min_pb"
     },
     {
       "relation": "contains",
@@ -1638,9 +2610,9 @@
       "source_file": "_script/jquery-3.2.1.min.js",
       "source_location": "L4",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_jquery_3_2_1_min_js",
-      "target": "script_jquery_3_2_1_min_qb",
-      "confidence_score": 1.0
+      "target": "script_jquery_3_2_1_min_qb"
     },
     {
       "relation": "contains",
@@ -1648,9 +2620,9 @@
       "source_file": "_script/jquery-3.2.1.min.js",
       "source_location": "L4",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_jquery_3_2_1_min_js",
-      "target": "script_jquery_3_2_1_min_ab",
-      "confidence_score": 1.0
+      "target": "script_jquery_3_2_1_min_ab"
     },
     {
       "relation": "contains",
@@ -1658,9 +2630,9 @@
       "source_file": "_script/jquery-3.2.1.min.js",
       "source_location": "L4",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_jquery_3_2_1_min_js",
-      "target": "script_jquery_3_2_1_min_mb",
-      "confidence_score": 1.0
+      "target": "script_jquery_3_2_1_min_mb"
     },
     {
       "relation": "contains",
@@ -1668,9 +2640,9 @@
       "source_file": "_script/jquery-3.2.1.min.js",
       "source_location": "L4",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_jquery_3_2_1_min_js",
-      "target": "script_jquery_3_2_1_min_nb",
-      "confidence_score": 1.0
+      "target": "script_jquery_3_2_1_min_nb"
     },
     {
       "relation": "contains",
@@ -1678,9 +2650,9 @@
       "source_file": "_script/jquery-3.2.1.min.js",
       "source_location": "L4",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_jquery_3_2_1_min_js",
-      "target": "script_jquery_3_2_1_min_ob",
-      "confidence_score": 1.0
+      "target": "script_jquery_3_2_1_min_ob"
     },
     {
       "relation": "calls",
@@ -1689,9 +2661,9 @@
       "source_file": "_script/jquery-3.2.1.min.js",
       "source_location": "L3",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_jquery_3_2_1_min_ja",
-      "target": "script_jquery_3_2_1_min_p",
-      "confidence_score": 1.0
+      "target": "script_jquery_3_2_1_min_p"
     },
     {
       "relation": "calls",
@@ -1700,9 +2672,9 @@
       "source_file": "_script/jquery-3.2.1.min.js",
       "source_location": "L2",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_jquery_3_2_1_min_ga",
-      "target": "script_jquery_3_2_1_min_m",
-      "confidence_score": 1.0
+      "target": "script_jquery_3_2_1_min_m"
     },
     {
       "relation": "calls",
@@ -1711,9 +2683,9 @@
       "source_file": "_script/jquery-3.2.1.min.js",
       "source_location": "L2",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_jquery_3_2_1_min_ga",
-      "target": "script_jquery_3_2_1_min_g",
-      "confidence_score": 1.0
+      "target": "script_jquery_3_2_1_min_g"
     },
     {
       "relation": "calls",
@@ -1722,9 +2694,9 @@
       "source_file": "_script/jquery-3.2.1.min.js",
       "source_location": "L2",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_jquery_3_2_1_min_ga",
-      "target": "script_jquery_3_2_1_min_sa",
-      "confidence_score": 1.0
+      "target": "script_jquery_3_2_1_min_sa"
     },
     {
       "relation": "calls",
@@ -1733,9 +2705,9 @@
       "source_file": "_script/jquery-3.2.1.min.js",
       "source_location": "L2",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_jquery_3_2_1_min_ga",
-      "target": "script_jquery_3_2_1_min_qa",
-      "confidence_score": 1.0
+      "target": "script_jquery_3_2_1_min_qa"
     },
     {
       "relation": "calls",
@@ -1744,9 +2716,9 @@
       "source_file": "_script/jquery-3.2.1.min.js",
       "source_location": "L2",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_jquery_3_2_1_min_va",
-      "target": "script_jquery_3_2_1_min_ga",
-      "confidence_score": 1.0
+      "target": "script_jquery_3_2_1_min_ga"
     },
     {
       "relation": "calls",
@@ -1777,9 +2749,9 @@
       "source_file": "_script/jquery-3.2.1.min.js",
       "source_location": "L3",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_jquery_3_2_1_min_ia",
-      "target": "script_jquery_3_2_1_min_ha",
-      "confidence_score": 1.0
+      "target": "script_jquery_3_2_1_min_ha"
     },
     {
       "relation": "calls",
@@ -1788,9 +2760,9 @@
       "source_file": "_script/jquery-3.2.1.min.js",
       "source_location": "L2",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_jquery_3_2_1_min_pa",
-      "target": "script_jquery_3_2_1_min_ia",
-      "confidence_score": 1.0
+      "target": "script_jquery_3_2_1_min_ia"
     },
     {
       "relation": "calls",
@@ -1799,9 +2771,9 @@
       "source_file": "_script/jquery-3.2.1.min.js",
       "source_location": "L2",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_jquery_3_2_1_min_xa",
-      "target": "script_jquery_3_2_1_min_ia",
-      "confidence_score": 1.0
+      "target": "script_jquery_3_2_1_min_ia"
     },
     {
       "relation": "calls",
@@ -1810,9 +2782,9 @@
       "source_file": "_script/jquery-3.2.1.min.js",
       "source_location": "L2",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_jquery_3_2_1_min_za",
-      "target": "script_jquery_3_2_1_min_ia",
-      "confidence_score": 1.0
+      "target": "script_jquery_3_2_1_min_ia"
     },
     {
       "relation": "calls",
@@ -1821,9 +2793,9 @@
       "source_file": "_script/jquery-3.2.1.min.js",
       "source_location": "L3",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_jquery_3_2_1_min_ib",
-      "target": "script_jquery_3_2_1_min_ia",
-      "confidence_score": 1.0
+      "target": "script_jquery_3_2_1_min_ia"
     },
     {
       "relation": "calls",
@@ -1832,9 +2804,9 @@
       "source_file": "_script/jquery-3.2.1.min.js",
       "source_location": "L3",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_jquery_3_2_1_min_ja",
-      "target": "script_jquery_3_2_1_min_qa",
-      "confidence_score": 1.0
+      "target": "script_jquery_3_2_1_min_qa"
     },
     {
       "relation": "calls",
@@ -1843,9 +2815,9 @@
       "source_file": "_script/jquery-3.2.1.min.js",
       "source_location": "L3",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_jquery_3_2_1_min_ja",
-      "target": "script_jquery_3_2_1_min_na",
-      "confidence_score": 1.0
+      "target": "script_jquery_3_2_1_min_na"
     },
     {
       "relation": "calls",
@@ -1854,9 +2826,9 @@
       "source_file": "_script/jquery-3.2.1.min.js",
       "source_location": "L3",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_jquery_3_2_1_min_ka",
-      "target": "script_jquery_3_2_1_min_na",
-      "confidence_score": 1.0
+      "target": "script_jquery_3_2_1_min_na"
     },
     {
       "relation": "calls",
@@ -1865,9 +2837,9 @@
       "source_file": "_script/jquery-3.2.1.min.js",
       "source_location": "L3",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_jquery_3_2_1_min_ka",
-      "target": "script_jquery_3_2_1_min_oa",
-      "confidence_score": 1.0
+      "target": "script_jquery_3_2_1_min_oa"
     },
     {
       "relation": "calls",
@@ -1876,9 +2848,9 @@
       "source_file": "_script/jquery-3.2.1.min.js",
       "source_location": "L3",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_jquery_3_2_1_min_na",
-      "target": "script_jquery_3_2_1_min_b",
-      "confidence_score": 1.0
+      "target": "script_jquery_3_2_1_min_b"
     },
     {
       "relation": "calls",
@@ -1887,9 +2859,9 @@
       "source_file": "_script/jquery-3.2.1.min.js",
       "source_location": "L3",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_jquery_3_2_1_min_qa",
-      "target": "script_jquery_3_2_1_min_na",
-      "confidence_score": 1.0
+      "target": "script_jquery_3_2_1_min_na"
     },
     {
       "relation": "calls",
@@ -1898,9 +2870,9 @@
       "source_file": "_script/jquery-3.2.1.min.js",
       "source_location": "L3",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_jquery_3_2_1_min_oa",
-      "target": "script_jquery_3_2_1_min_na",
-      "confidence_score": 1.0
+      "target": "script_jquery_3_2_1_min_na"
     },
     {
       "relation": "calls",
@@ -1909,9 +2881,9 @@
       "source_file": "_script/jquery-3.2.1.min.js",
       "source_location": "L3",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_jquery_3_2_1_min_a",
-      "target": "script_jquery_3_2_1_min_na",
-      "confidence_score": 1.0
+      "target": "script_jquery_3_2_1_min_na"
     },
     {
       "relation": "calls",
@@ -1920,9 +2892,9 @@
       "source_file": "_script/jquery-3.2.1.min.js",
       "source_location": "L2",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_jquery_3_2_1_min_oa",
-      "target": "script_jquery_3_2_1_min_ea",
-      "confidence_score": 1.0
+      "target": "script_jquery_3_2_1_min_ea"
     },
     {
       "relation": "calls",
@@ -1931,9 +2903,9 @@
       "source_file": "_script/jquery-3.2.1.min.js",
       "source_location": "L3",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_jquery_3_2_1_min_qa",
-      "target": "script_jquery_3_2_1_min_oa",
-      "confidence_score": 1.0
+      "target": "script_jquery_3_2_1_min_oa"
     },
     {
       "relation": "calls",
@@ -1942,9 +2914,9 @@
       "source_file": "_script/jquery-3.2.1.min.js",
       "source_location": "L3",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_jquery_3_2_1_min_a",
-      "target": "script_jquery_3_2_1_min_oa",
-      "confidence_score": 1.0
+      "target": "script_jquery_3_2_1_min_oa"
     },
     {
       "relation": "calls",
@@ -1953,9 +2925,9 @@
       "source_file": "_script/jquery-3.2.1.min.js",
       "source_location": "L2",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_jquery_3_2_1_min_ya",
-      "target": "script_jquery_3_2_1_min_sa",
-      "confidence_score": 1.0
+      "target": "script_jquery_3_2_1_min_sa"
     },
     {
       "relation": "calls",
@@ -1964,9 +2936,9 @@
       "source_file": "_script/jquery-3.2.1.min.js",
       "source_location": "L2",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_jquery_3_2_1_min_ya",
-      "target": "script_jquery_3_2_1_min_ta",
-      "confidence_score": 1.0
+      "target": "script_jquery_3_2_1_min_ta"
     },
     {
       "relation": "calls",
@@ -1975,9 +2947,9 @@
       "source_file": "_script/jquery-3.2.1.min.js",
       "source_location": "L2",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_jquery_3_2_1_min_ya",
-      "target": "script_jquery_3_2_1_min_ua",
-      "confidence_score": 1.0
+      "target": "script_jquery_3_2_1_min_ua"
     },
     {
       "relation": "calls",
@@ -1986,9 +2958,9 @@
       "source_file": "_script/jquery-3.2.1.min.js",
       "source_location": "L2",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_jquery_3_2_1_min_xa",
-      "target": "script_jquery_3_2_1_min_va",
-      "confidence_score": 1.0
+      "target": "script_jquery_3_2_1_min_va"
     },
     {
       "relation": "calls",
@@ -1997,9 +2969,9 @@
       "source_file": "_script/jquery-3.2.1.min.js",
       "source_location": "L2",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_jquery_3_2_1_min_xa",
-      "target": "script_jquery_3_2_1_min_wa",
-      "confidence_score": 1.0
+      "target": "script_jquery_3_2_1_min_wa"
     },
     {
       "relation": "calls",
@@ -2008,9 +2980,9 @@
       "source_file": "_script/jquery-3.2.1.min.js",
       "source_location": "L2",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_jquery_3_2_1_min_za",
-      "target": "script_jquery_3_2_1_min_wa",
-      "confidence_score": 1.0
+      "target": "script_jquery_3_2_1_min_wa"
     },
     {
       "relation": "calls",
@@ -2019,9 +2991,9 @@
       "source_file": "_script/jquery-3.2.1.min.js",
       "source_location": "L2",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_jquery_3_2_1_min_xa",
-      "target": "script_jquery_3_2_1_min_e",
-      "confidence_score": 1.0
+      "target": "script_jquery_3_2_1_min_e"
     },
     {
       "relation": "calls",
@@ -2030,9 +3002,9 @@
       "source_file": "_script/jquery-3.2.1.min.js",
       "source_location": "L2",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_jquery_3_2_1_min_ya",
-      "target": "script_jquery_3_2_1_min_xa",
-      "confidence_score": 1.0
+      "target": "script_jquery_3_2_1_min_xa"
     },
     {
       "relation": "calls",
@@ -2052,9 +3024,9 @@
       "source_file": "_script/jquery-3.2.1.min.js",
       "source_location": "L2",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_jquery_3_2_1_min_ya",
-      "target": "script_jquery_3_2_1_min_k",
-      "confidence_score": 1.0
+      "target": "script_jquery_3_2_1_min_k"
     },
     {
       "relation": "calls",
@@ -2096,9 +3068,9 @@
       "source_file": "_script/jquery-3.2.1.min.js",
       "source_location": "L2",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_jquery_3_2_1_min_za",
-      "target": "script_jquery_3_2_1_min_m",
-      "confidence_score": 1.0
+      "target": "script_jquery_3_2_1_min_m"
     },
     {
       "relation": "calls",
@@ -2107,9 +3079,9 @@
       "source_file": "_script/jquery-3.2.1.min.js",
       "source_location": "L3",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_jquery_3_2_1_min_a",
-      "target": "script_jquery_3_2_1_min_za",
-      "confidence_score": 1.0
+      "target": "script_jquery_3_2_1_min_za"
     },
     {
       "relation": "calls",
@@ -2118,9 +3090,9 @@
       "source_file": "_script/jquery-3.2.1.min.js",
       "source_location": "L3",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_jquery_3_2_1_min_ea",
-      "target": "script_jquery_3_2_1_min_b",
-      "confidence_score": 1.0
+      "target": "script_jquery_3_2_1_min_b"
     },
     {
       "relation": "calls",
@@ -2129,9 +3101,9 @@
       "source_file": "_script/jquery-3.2.1.min.js",
       "source_location": "L2",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_jquery_3_2_1_min_g",
-      "target": "script_jquery_3_2_1_min_k",
-      "confidence_score": 1.0
+      "target": "script_jquery_3_2_1_min_k"
     },
     {
       "relation": "calls",
@@ -2140,9 +3112,9 @@
       "source_file": "_script/jquery-3.2.1.min.js",
       "source_location": "L4",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_jquery_3_2_1_min_nb",
-      "target": "script_jquery_3_2_1_min_g",
-      "confidence_score": 1.0
+      "target": "script_jquery_3_2_1_min_g"
     },
     {
       "relation": "calls",
@@ -2151,9 +3123,9 @@
       "source_file": "_script/jquery-3.2.1.min.js",
       "source_location": "L4",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_jquery_3_2_1_min_qb",
-      "target": "script_jquery_3_2_1_min_g",
-      "confidence_score": 1.0
+      "target": "script_jquery_3_2_1_min_g"
     },
     {
       "relation": "calls",
@@ -2316,9 +3288,9 @@
       "source_file": "_script/jquery-3.2.1.min.js",
       "source_location": "L4",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_jquery_3_2_1_min_a",
-      "target": "script_jquery_3_2_1_min_pb",
-      "confidence_score": 1.0
+      "target": "script_jquery_3_2_1_min_pb"
     },
     {
       "relation": "calls",
@@ -2327,9 +3299,9 @@
       "source_file": "_script/jquery-3.2.1.min.js",
       "source_location": "L4",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_jquery_3_2_1_min_a",
-      "target": "script_jquery_3_2_1_min_qb",
-      "confidence_score": 1.0
+      "target": "script_jquery_3_2_1_min_qb"
     },
     {
       "relation": "calls",
@@ -2338,9 +3310,9 @@
       "source_file": "_script/jquery-3.2.1.min.js",
       "source_location": "L3",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_jquery_3_2_1_min_kb",
-      "target": "script_jquery_3_2_1_min_fb",
-      "confidence_score": 1.0
+      "target": "script_jquery_3_2_1_min_fb"
     },
     {
       "relation": "calls",
@@ -2349,9 +3321,9 @@
       "source_file": "_script/jquery-3.2.1.min.js",
       "source_location": "L3",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_jquery_3_2_1_min_ib",
-      "target": "script_jquery_3_2_1_min_hb",
-      "confidence_score": 1.0
+      "target": "script_jquery_3_2_1_min_hb"
     },
     {
       "relation": "calls",
@@ -2371,9 +3343,9 @@
       "source_file": "_script/jquery-3.2.1.min.js",
       "source_location": "L3",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_jquery_3_2_1_min_kb",
-      "target": "script_jquery_3_2_1_min_jb",
-      "confidence_score": 1.0
+      "target": "script_jquery_3_2_1_min_jb"
     },
     {
       "relation": "contains",
@@ -2381,9 +3353,9 @@
       "source_file": "_script/script.js",
       "source_location": "L41",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_script_js",
-      "target": "script_script_calculateprice",
-      "confidence_score": 1.0
+      "target": "script_script_calculateprice"
     },
     {
       "relation": "contains",
@@ -2391,9 +3363,9 @@
       "source_file": "_script/script.js",
       "source_location": "L47",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_script_js",
-      "target": "script_script_calculateperc",
-      "confidence_score": 1.0
+      "target": "script_script_calculateperc"
     },
     {
       "relation": "contains",
@@ -2401,9 +3373,9 @@
       "source_file": "_script/script.js",
       "source_location": "L53",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_script_js",
-      "target": "script_script_calculatemonths",
-      "confidence_score": 1.0
+      "target": "script_script_calculatemonths"
     },
     {
       "relation": "contains",
@@ -2411,9 +3383,9 @@
       "source_file": "_script/script.js",
       "source_location": "L58",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_script_js",
-      "target": "script_script_calculateyears",
-      "confidence_score": 1.0
+      "target": "script_script_calculateyears"
     },
     {
       "relation": "contains",
@@ -2421,9 +3393,9 @@
       "source_file": "_script/script.js",
       "source_location": "L65",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_script_js",
-      "target": "script_script_checkpasswordmatch",
-      "confidence_score": 1.0
+      "target": "script_script_checkpasswordmatch"
     },
     {
       "relation": "contains",
@@ -2431,9 +3403,9 @@
       "source_file": "_script/tether.js",
       "source_location": "L21",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_tether_js",
-      "target": "script_tether_within",
-      "confidence_score": 1.0
+      "target": "script_tether_within"
     },
     {
       "relation": "contains",
@@ -2441,9 +3413,9 @@
       "source_file": "_script/tether.js",
       "source_location": "L25",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_tether_js",
-      "target": "script_tether_transformkey",
-      "confidence_score": 1.0
+      "target": "script_tether_transformkey"
     },
     {
       "relation": "contains",
@@ -2451,9 +3423,9 @@
       "source_file": "_script/tether.js",
       "source_location": "L40",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_tether_js",
-      "target": "script_tether_tethers",
-      "confidence_score": 1.0
+      "target": "script_tether_tethers"
     },
     {
       "relation": "contains",
@@ -2461,9 +3433,9 @@
       "source_file": "_script/tether.js",
       "source_location": "L42",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_tether_js",
-      "target": "script_tether_position",
-      "confidence_score": 1.0
+      "target": "script_tether_position"
     },
     {
       "relation": "contains",
@@ -2471,9 +3443,9 @@
       "source_file": "_script/tether.js",
       "source_location": "L49",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_tether_js",
-      "target": "script_tether_now",
-      "confidence_score": 1.0
+      "target": "script_tether_now"
     },
     {
       "relation": "contains",
@@ -2481,9 +3453,9 @@
       "source_file": "_script/tether.js",
       "source_location": "L61",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_tether_js",
-      "target": "script_tether_tick",
-      "confidence_score": 1.0
+      "target": "script_tether_tick"
     },
     {
       "relation": "contains",
@@ -2491,9 +3463,9 @@
       "source_file": "_script/tether.js",
       "source_location": "L93",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_tether_js",
-      "target": "script_tether_mirror_lr",
-      "confidence_score": 1.0
+      "target": "script_tether_mirror_lr"
     },
     {
       "relation": "contains",
@@ -2501,9 +3473,9 @@
       "source_file": "_script/tether.js",
       "source_location": "L99",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_tether_js",
-      "target": "script_tether_mirror_tb",
-      "confidence_score": 1.0
+      "target": "script_tether_mirror_tb"
     },
     {
       "relation": "contains",
@@ -2511,9 +3483,9 @@
       "source_file": "_script/tether.js",
       "source_location": "L105",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_tether_js",
-      "target": "script_tether_offset_map",
-      "confidence_score": 1.0
+      "target": "script_tether_offset_map"
     },
     {
       "relation": "contains",
@@ -2521,9 +3493,9 @@
       "source_file": "_script/tether.js",
       "source_location": "L114",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_tether_js",
-      "target": "script_tether_autotofixedattachment",
-      "confidence_score": 1.0
+      "target": "script_tether_autotofixedattachment"
     },
     {
       "relation": "contains",
@@ -2531,9 +3503,9 @@
       "source_file": "_script/tether.js",
       "source_location": "L128",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_tether_js",
-      "target": "script_tether_attachmenttooffset",
-      "confidence_score": 1.0
+      "target": "script_tether_attachmenttooffset"
     },
     {
       "relation": "contains",
@@ -2541,9 +3513,9 @@
       "source_file": "_script/tether.js",
       "source_location": "L143",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_tether_js",
-      "target": "script_tether_addoffset",
-      "confidence_score": 1.0
+      "target": "script_tether_addoffset"
     },
     {
       "relation": "contains",
@@ -2551,9 +3523,9 @@
       "source_file": "_script/tether.js",
       "source_location": "L161",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_tether_js",
-      "target": "script_tether_offsettopx",
-      "confidence_score": 1.0
+      "target": "script_tether_offsettopx"
     },
     {
       "relation": "contains",
@@ -2561,9 +3533,9 @@
       "source_file": "_script/tether.js",
       "source_location": "L172",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_tether_js",
-      "target": "script_tether_parseoffset",
-      "confidence_score": 1.0
+      "target": "script_tether_parseoffset"
     },
     {
       "relation": "contains",
@@ -2571,9 +3543,9 @@
       "source_file": "_script/tether.js",
       "source_location": "L178",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_tether_js",
-      "target": "script_tether_tetherclass",
-      "confidence_score": 1.0
+      "target": "script_tether_tetherclass"
     },
     {
       "relation": "contains",
@@ -2581,9 +3553,9 @@
       "source_file": "_script/tether.js",
       "source_location": "L794",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_tether_js",
-      "target": "script_tether_tether",
-      "confidence_score": 1.0
+      "target": "script_tether_tether"
     },
     {
       "relation": "calls",
@@ -2592,9 +3564,9 @@
       "source_file": "_script/tether.js",
       "source_location": "L664",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_tether_tetherclass_move",
-      "target": "script_tether_within",
-      "confidence_score": 1.0
+      "target": "script_tether_within"
     },
     {
       "relation": "calls",
@@ -2603,9 +3575,9 @@
       "source_file": "_script/tether.js",
       "source_location": "L71",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_tether_tick",
-      "target": "script_tether_now",
-      "confidence_score": 1.0
+      "target": "script_tether_now"
     },
     {
       "relation": "calls",
@@ -2614,9 +3586,9 @@
       "source_file": "_script/tether.js",
       "source_location": "L82",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_tether_tick",
-      "target": "script_tether_tetherclass_position",
-      "confidence_score": 1.0
+      "target": "script_tether_tetherclass_position"
     },
     {
       "relation": "calls",
@@ -2625,9 +3597,9 @@
       "source_file": "_script/tether.js",
       "source_location": "L492",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_tether_tetherclass_position",
-      "target": "script_tether_autotofixedattachment",
-      "confidence_score": 1.0
+      "target": "script_tether_autotofixedattachment"
     },
     {
       "relation": "calls",
@@ -2636,9 +3608,9 @@
       "source_file": "_script/tether.js",
       "source_location": "L516",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_tether_tetherclass_position",
-      "target": "script_tether_attachmenttooffset",
-      "confidence_score": 1.0
+      "target": "script_tether_attachmenttooffset"
     },
     {
       "relation": "calls",
@@ -2647,9 +3619,9 @@
       "source_file": "_script/tether.js",
       "source_location": "L523",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_tether_tetherclass_position",
-      "target": "script_tether_addoffset",
-      "confidence_score": 1.0
+      "target": "script_tether_addoffset"
     },
     {
       "relation": "calls",
@@ -2658,9 +3630,9 @@
       "source_file": "_script/tether.js",
       "source_location": "L516",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_tether_tetherclass_position",
-      "target": "script_tether_offsettopx",
-      "confidence_score": 1.0
+      "target": "script_tether_offsettopx"
     },
     {
       "relation": "calls",
@@ -2669,9 +3641,9 @@
       "source_file": "_script/tether.js",
       "source_location": "L256",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_tether_tetherclass_setoptions",
-      "target": "script_tether_parseoffset",
-      "confidence_score": 1.0
+      "target": "script_tether_parseoffset"
     },
     {
       "relation": "method",
@@ -2679,9 +3651,9 @@
       "source_file": "_script/tether.js",
       "source_location": "L180",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_tether_tetherclass",
-      "target": "script_tether_tetherclass_constructor",
-      "confidence_score": 1.0
+      "target": "script_tether_tetherclass_constructor"
     },
     {
       "relation": "method",
@@ -2689,9 +3661,9 @@
       "source_file": "_script/tether.js",
       "source_location": "L199",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_tether_tetherclass",
-      "target": "script_tether_tetherclass_getclass",
-      "confidence_score": 1.0
+      "target": "script_tether_tetherclass_getclass"
     },
     {
       "relation": "method",
@@ -2699,9 +3671,9 @@
       "source_file": "_script/tether.js",
       "source_location": "L210",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_tether_tetherclass",
-      "target": "script_tether_tetherclass_setoptions",
-      "confidence_score": 1.0
+      "target": "script_tether_tetherclass_setoptions"
     },
     {
       "relation": "method",
@@ -2709,9 +3681,9 @@
       "source_file": "_script/tether.js",
       "source_location": "L274",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_tether_tetherclass",
-      "target": "script_tether_tetherclass_gettargetbounds",
-      "confidence_score": 1.0
+      "target": "script_tether_tetherclass_gettargetbounds"
     },
     {
       "relation": "method",
@@ -2719,9 +3691,9 @@
       "source_file": "_script/tether.js",
       "source_location": "L368",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_tether_tetherclass",
-      "target": "script_tether_tetherclass_clearcache",
-      "confidence_score": 1.0
+      "target": "script_tether_tetherclass_clearcache"
     },
     {
       "relation": "method",
@@ -2729,9 +3701,9 @@
       "source_file": "_script/tether.js",
       "source_location": "L372",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_tether_tetherclass",
-      "target": "script_tether_tetherclass_cache",
-      "confidence_score": 1.0
+      "target": "script_tether_tetherclass_cache"
     },
     {
       "relation": "method",
@@ -2739,9 +3711,9 @@
       "source_file": "_script/tether.js",
       "source_location": "L386",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_tether_tetherclass",
-      "target": "script_tether_tetherclass_enable",
-      "confidence_score": 1.0
+      "target": "script_tether_tetherclass_enable"
     },
     {
       "relation": "method",
@@ -2749,9 +3721,9 @@
       "source_file": "_script/tether.js",
       "source_location": "L404",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_tether_tetherclass",
-      "target": "script_tether_tetherclass_disable",
-      "confidence_score": 1.0
+      "target": "script_tether_tetherclass_disable"
     },
     {
       "relation": "method",
@@ -2759,9 +3731,9 @@
       "source_file": "_script/tether.js",
       "source_location": "L416",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_tether_tetherclass",
-      "target": "script_tether_tetherclass_destroy",
-      "confidence_score": 1.0
+      "target": "script_tether_tetherclass_destroy"
     },
     {
       "relation": "method",
@@ -2769,9 +3741,9 @@
       "source_file": "_script/tether.js",
       "source_location": "L431",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_tether_tetherclass",
-      "target": "script_tether_tetherclass_updateattachclasses",
-      "confidence_score": 1.0
+      "target": "script_tether_tetherclass_updateattachclasses"
     },
     {
       "relation": "method",
@@ -2779,9 +3751,9 @@
       "source_file": "_script/tether.js",
       "source_location": "L481",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_tether_tetherclass",
-      "target": "script_tether_tetherclass_position",
-      "confidence_score": 1.0
+      "target": "script_tether_tetherclass_position"
     },
     {
       "relation": "method",
@@ -2789,9 +3761,9 @@
       "source_file": "_script/tether.js",
       "source_location": "L648",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_tether_tetherclass",
-      "target": "script_tether_tetherclass_move",
-      "confidence_score": 1.0
+      "target": "script_tether_tetherclass_move"
     },
     {
       "relation": "calls",
@@ -2800,9 +3772,9 @@
       "source_file": "_script/tether.js",
       "source_location": "L188",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_tether_tetherclass_constructor",
-      "target": "script_tether_tetherclass_setoptions",
-      "confidence_score": 1.0
+      "target": "script_tether_tetherclass_setoptions"
     },
     {
       "relation": "calls",
@@ -2811,9 +3783,9 @@
       "source_file": "_script/tether.js",
       "source_location": "L196",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_tether_tetherclass_constructor",
-      "target": "script_tether_tetherclass_position",
-      "confidence_score": 1.0
+      "target": "script_tether_tetherclass_position"
     },
     {
       "relation": "calls",
@@ -2822,9 +3794,9 @@
       "source_file": "_script/tether.js",
       "source_location": "L245",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_tether_tetherclass_setoptions",
-      "target": "script_tether_tetherclass_getclass",
-      "confidence_score": 1.0
+      "target": "script_tether_tetherclass_getclass"
     },
     {
       "relation": "calls",
@@ -2833,9 +3805,9 @@
       "source_file": "_script/tether.js",
       "source_location": "L388",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_tether_tetherclass_enable",
-      "target": "script_tether_tetherclass_getclass",
-      "confidence_score": 1.0
+      "target": "script_tether_tetherclass_getclass"
     },
     {
       "relation": "calls",
@@ -2844,9 +3816,9 @@
       "source_file": "_script/tether.js",
       "source_location": "L405",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_tether_tetherclass_disable",
-      "target": "script_tether_tetherclass_getclass",
-      "confidence_score": 1.0
+      "target": "script_tether_tetherclass_getclass"
     },
     {
       "relation": "calls",
@@ -2855,9 +3827,9 @@
       "source_file": "_script/tether.js",
       "source_location": "L449",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_tether_tetherclass_updateattachclasses",
-      "target": "script_tether_tetherclass_getclass",
-      "confidence_score": 1.0
+      "target": "script_tether_tetherclass_getclass"
     },
     {
       "relation": "calls",
@@ -2866,9 +3838,9 @@
       "source_file": "_script/tether.js",
       "source_location": "L260",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_tether_tetherclass_setoptions",
-      "target": "script_tether_tetherclass_disable",
-      "confidence_score": 1.0
+      "target": "script_tether_tetherclass_disable"
     },
     {
       "relation": "calls",
@@ -2877,9 +3849,9 @@
       "source_file": "_script/tether.js",
       "source_location": "L270",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_tether_tetherclass_setoptions",
-      "target": "script_tether_tetherclass_enable",
-      "confidence_score": 1.0
+      "target": "script_tether_tetherclass_enable"
     },
     {
       "relation": "calls",
@@ -2888,9 +3860,9 @@
       "source_file": "_script/tether.js",
       "source_location": "L489",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_tether_tetherclass_position",
-      "target": "script_tether_tetherclass_clearcache",
-      "confidence_score": 1.0
+      "target": "script_tether_tetherclass_clearcache"
     },
     {
       "relation": "calls",
@@ -2899,9 +3871,9 @@
       "source_file": "_script/tether.js",
       "source_location": "L496",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_tether_tetherclass_position",
-      "target": "script_tether_tetherclass_cache",
-      "confidence_score": 1.0
+      "target": "script_tether_tetherclass_cache"
     },
     {
       "relation": "calls",
@@ -2910,9 +3882,9 @@
       "source_file": "_script/tether.js",
       "source_location": "L734",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_tether_tetherclass_move",
-      "target": "script_tether_tetherclass_cache",
-      "confidence_score": 1.0
+      "target": "script_tether_tetherclass_cache"
     },
     {
       "relation": "calls",
@@ -2921,9 +3893,9 @@
       "source_file": "_script/tether.js",
       "source_location": "L400",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_tether_tetherclass_enable",
-      "target": "script_tether_tetherclass_position",
-      "confidence_score": 1.0
+      "target": "script_tether_tetherclass_position"
     },
     {
       "relation": "calls",
@@ -2932,9 +3904,9 @@
       "source_file": "_script/tether.js",
       "source_location": "L417",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_tether_tetherclass_destroy",
-      "target": "script_tether_tetherclass_disable",
-      "confidence_score": 1.0
+      "target": "script_tether_tetherclass_disable"
     },
     {
       "relation": "calls",
@@ -2943,9 +3915,9 @@
       "source_file": "_script/tether.js",
       "source_location": "L494",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_tether_tetherclass_position",
-      "target": "script_tether_tetherclass_updateattachclasses",
-      "confidence_score": 1.0
+      "target": "script_tether_tetherclass_updateattachclasses"
     },
     {
       "relation": "calls",
@@ -2954,9 +3926,9 @@
       "source_file": "_script/tether.js",
       "source_location": "L632",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_tether_tetherclass_position",
-      "target": "script_tether_tetherclass_move",
-      "confidence_score": 1.0
+      "target": "script_tether_tetherclass_move"
     },
     {
       "relation": "contains",
@@ -2964,9 +3936,9 @@
       "source_file": "_script/bootstrap.min.js",
       "source_location": "L6",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_bootstrap_min_js",
-      "target": "script_bootstrap_min_t",
-      "confidence_score": 1.0
+      "target": "script_bootstrap_min_t"
     },
     {
       "relation": "contains",
@@ -2974,9 +3946,9 @@
       "source_file": "_script/bootstrap.min.js",
       "source_location": "L7",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_bootstrap_min_js",
-      "target": "script_bootstrap_min_e",
-      "confidence_score": 1.0
+      "target": "script_bootstrap_min_e"
     },
     {
       "relation": "contains",
@@ -2984,9 +3956,9 @@
       "source_file": "_script/bootstrap.min.js",
       "source_location": "L6",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_bootstrap_min_js",
-      "target": "script_bootstrap_min_n",
-      "confidence_score": 1.0
+      "target": "script_bootstrap_min_n"
     },
     {
       "relation": "contains",
@@ -2994,9 +3966,9 @@
       "source_file": "_script/bootstrap.min.js",
       "source_location": "L6",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_bootstrap_min_js",
-      "target": "script_bootstrap_min_i",
-      "confidence_score": 1.0
+      "target": "script_bootstrap_min_i"
     },
     {
       "relation": "contains",
@@ -3004,9 +3976,9 @@
       "source_file": "_script/bootstrap.min.js",
       "source_location": "L6",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_bootstrap_min_js",
-      "target": "script_bootstrap_min_o",
-      "confidence_score": 1.0
+      "target": "script_bootstrap_min_o"
     },
     {
       "relation": "contains",
@@ -3014,9 +3986,9 @@
       "source_file": "_script/bootstrap.min.js",
       "source_location": "L6",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_bootstrap_min_js",
-      "target": "script_bootstrap_min_r",
-      "confidence_score": 1.0
+      "target": "script_bootstrap_min_r"
     },
     {
       "relation": "contains",
@@ -3024,9 +3996,9 @@
       "source_file": "_script/bootstrap.min.js",
       "source_location": "L6",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_bootstrap_min_js",
-      "target": "script_bootstrap_min_s",
-      "confidence_score": 1.0
+      "target": "script_bootstrap_min_s"
     },
     {
       "relation": "contains",
@@ -3034,9 +4006,9 @@
       "source_file": "_script/bootstrap.min.js",
       "source_location": "L7",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_bootstrap_min_js",
-      "target": "script_bootstrap_min_h",
-      "confidence_score": 1.0
+      "target": "script_bootstrap_min_h"
     },
     {
       "relation": "contains",
@@ -3044,9 +4016,9 @@
       "source_file": "_script/bootstrap.min.js",
       "source_location": "L6",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_bootstrap_min_js",
-      "target": "script_bootstrap_min_l",
-      "confidence_score": 1.0
+      "target": "script_bootstrap_min_l"
     },
     {
       "relation": "contains",
@@ -3054,9 +4026,9 @@
       "source_file": "_script/bootstrap.min.js",
       "source_location": "L7",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_bootstrap_min_js",
-      "target": "script_bootstrap_min_u",
-      "confidence_score": 1.0
+      "target": "script_bootstrap_min_u"
     },
     {
       "relation": "calls",
@@ -3065,9 +4037,9 @@
       "source_file": "_script/bootstrap.min.js",
       "source_location": "L6",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_bootstrap_min_i",
-      "target": "script_bootstrap_min_t",
-      "confidence_score": 1.0
+      "target": "script_bootstrap_min_t"
     },
     {
       "relation": "calls",
@@ -3076,9 +4048,9 @@
       "source_file": "_script/bootstrap.min.js",
       "source_location": "L6",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_bootstrap_min_r",
-      "target": "script_bootstrap_min_t",
-      "confidence_score": 1.0
+      "target": "script_bootstrap_min_t"
     },
     {
       "relation": "calls",
@@ -3087,9 +4059,9 @@
       "source_file": "_script/bootstrap.min.js",
       "source_location": "L6",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_bootstrap_min_h",
-      "target": "script_bootstrap_min_t",
-      "confidence_score": 1.0
+      "target": "script_bootstrap_min_t"
     },
     {
       "relation": "calls",
@@ -3098,9 +4070,9 @@
       "source_file": "_script/bootstrap.min.js",
       "source_location": "L6",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_bootstrap_min_l",
-      "target": "script_bootstrap_min_t",
-      "confidence_score": 1.0
+      "target": "script_bootstrap_min_t"
     },
     {
       "relation": "calls",
@@ -3109,9 +4081,9 @@
       "source_file": "_script/bootstrap.min.js",
       "source_location": "L7",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_bootstrap_min_u",
-      "target": "script_bootstrap_min_t",
-      "confidence_score": 1.0
+      "target": "script_bootstrap_min_t"
     },
     {
       "relation": "calls",
@@ -3120,9 +4092,9 @@
       "source_file": "_script/bootstrap.min.js",
       "source_location": "L6",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_bootstrap_min_e",
-      "target": "script_bootstrap_min_n",
-      "confidence_score": 1.0
+      "target": "script_bootstrap_min_n"
     },
     {
       "relation": "calls",
@@ -3131,9 +4103,9 @@
       "source_file": "_script/bootstrap.min.js",
       "source_location": "L6",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_bootstrap_min_h",
-      "target": "script_bootstrap_min_n",
-      "confidence_score": 1.0
+      "target": "script_bootstrap_min_n"
     },
     {
       "relation": "calls",
@@ -3142,9 +4114,9 @@
       "source_file": "_script/bootstrap.min.js",
       "source_location": "L6",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_bootstrap_min_l",
-      "target": "script_bootstrap_min_n",
-      "confidence_score": 1.0
+      "target": "script_bootstrap_min_n"
     },
     {
       "relation": "calls",
@@ -3153,9 +4125,9 @@
       "source_file": "_script/bootstrap.min.js",
       "source_location": "L7",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_bootstrap_min_u",
-      "target": "script_bootstrap_min_n",
-      "confidence_score": 1.0
+      "target": "script_bootstrap_min_n"
     },
     {
       "relation": "calls",
@@ -3164,9 +4136,9 @@
       "source_file": "_script/bootstrap.min.js",
       "source_location": "L6",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_bootstrap_min_s",
-      "target": "script_bootstrap_min_i",
-      "confidence_score": 1.0
+      "target": "script_bootstrap_min_i"
     },
     {
       "relation": "calls",
@@ -3175,9 +4147,9 @@
       "source_file": "_script/bootstrap.min.js",
       "source_location": "L6",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_bootstrap_min_s",
-      "target": "script_bootstrap_min_o",
-      "confidence_score": 1.0
+      "target": "script_bootstrap_min_o"
     },
     {
       "relation": "contains",
@@ -3185,9 +4157,9 @@
       "source_file": "_script/jquery-ui.js",
       "source_location": "L128",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_jquery_ui_js",
-      "target": "script_jquery_ui_super",
-      "confidence_score": 1.0
+      "target": "script_jquery_ui_super"
     },
     {
       "relation": "contains",
@@ -3195,9 +4167,9 @@
       "source_file": "_script/jquery-ui.js",
       "source_location": "L132",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_jquery_ui_js",
-      "target": "script_jquery_ui_superapply",
-      "confidence_score": 1.0
+      "target": "script_jquery_ui_superapply"
     },
     {
       "relation": "contains",
@@ -3205,9 +4177,9 @@
       "source_file": "_script/jquery-ui.js",
       "source_location": "L512",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_jquery_ui_js",
-      "target": "script_jquery_ui_processclassstring",
-      "confidence_score": 1.0
+      "target": "script_jquery_ui_processclassstring"
     },
     {
       "relation": "contains",
@@ -3215,9 +4187,9 @@
       "source_file": "_script/jquery-ui.js",
       "source_location": "L639",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_jquery_ui_js",
-      "target": "script_jquery_ui_handlerproxy",
-      "confidence_score": 1.0
+      "target": "script_jquery_ui_handlerproxy"
     },
     {
       "relation": "contains",
@@ -3225,9 +4197,9 @@
       "source_file": "_script/jquery-ui.js",
       "source_location": "L775",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_jquery_ui_js",
-      "target": "script_jquery_ui_getoffsets",
-      "confidence_score": 1.0
+      "target": "script_jquery_ui_getoffsets"
     },
     {
       "relation": "contains",
@@ -3235,9 +4207,9 @@
       "source_file": "_script/jquery-ui.js",
       "source_location": "L782",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_jquery_ui_js",
-      "target": "script_jquery_ui_parsecss",
-      "confidence_score": 1.0
+      "target": "script_jquery_ui_parsecss"
     },
     {
       "relation": "contains",
@@ -3245,9 +4217,9 @@
       "source_file": "_script/jquery-ui.js",
       "source_location": "L786",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_jquery_ui_js",
-      "target": "script_jquery_ui_getdimensions",
-      "confidence_score": 1.0
+      "target": "script_jquery_ui_getdimensions"
     },
     {
       "relation": "contains",
@@ -3255,9 +4227,9 @@
       "source_file": "_script/jquery-ui.js",
       "source_location": "L1482",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_jquery_ui_js",
-      "target": "script_jquery_ui_clamp",
-      "confidence_score": 1.0
+      "target": "script_jquery_ui_clamp"
     },
     {
       "relation": "contains",
@@ -3265,9 +4237,9 @@
       "source_file": "_script/jquery-ui.js",
       "source_location": "L1509",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_jquery_ui_js",
-      "target": "script_jquery_ui_stringparse",
-      "confidence_score": 1.0
+      "target": "script_jquery_ui_stringparse"
     },
     {
       "relation": "contains",
@@ -3275,9 +4247,9 @@
       "source_file": "_script/jquery-ui.js",
       "source_location": "L1763",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_jquery_ui_js",
-      "target": "script_jquery_ui_hue2rgb",
-      "confidence_score": 1.0
+      "target": "script_jquery_ui_hue2rgb"
     },
     {
       "relation": "contains",
@@ -3285,9 +4257,9 @@
       "source_file": "_script/jquery-ui.js",
       "source_location": "L2037",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_jquery_ui_js",
-      "target": "script_jquery_ui_getelementstyles",
-      "confidence_score": 1.0
+      "target": "script_jquery_ui_getelementstyles"
     },
     {
       "relation": "contains",
@@ -3295,9 +4267,9 @@
       "source_file": "_script/jquery-ui.js",
       "source_location": "L2065",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_jquery_ui_js",
-      "target": "script_jquery_ui_styledifference",
-      "confidence_score": 1.0
+      "target": "script_jquery_ui_styledifference"
     },
     {
       "relation": "contains",
@@ -3305,9 +4277,9 @@
       "source_file": "_script/jquery-ui.js",
       "source_location": "L2558",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_jquery_ui_js",
-      "target": "script_jquery_ui_normalizearguments",
-      "confidence_score": 1.0
+      "target": "script_jquery_ui_normalizearguments"
     },
     {
       "relation": "contains",
@@ -3315,9 +4287,9 @@
       "source_file": "_script/jquery-ui.js",
       "source_location": "L2610",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_jquery_ui_js",
-      "target": "script_jquery_ui_standardanimationoption",
-      "confidence_score": 1.0
+      "target": "script_jquery_ui_standardanimationoption"
     },
     {
       "relation": "contains",
@@ -3325,9 +4297,9 @@
       "source_file": "_script/jquery-ui.js",
       "source_location": "L2687",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_jquery_ui_js",
-      "target": "script_jquery_ui_run",
-      "confidence_score": 1.0
+      "target": "script_jquery_ui_run"
     },
     {
       "relation": "contains",
@@ -3335,9 +4307,9 @@
       "source_file": "_script/jquery-ui.js",
       "source_location": "L2835",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_jquery_ui_js",
-      "target": "script_jquery_ui_parseclip",
-      "confidence_score": 1.0
+      "target": "script_jquery_ui_parseclip"
     },
     {
       "relation": "contains",
@@ -3345,9 +4317,9 @@
       "source_file": "_script/jquery-ui.js",
       "source_location": "L3219",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_jquery_ui_js",
-      "target": "script_jquery_ui_childcomplete",
-      "confidence_score": 1.0
+      "target": "script_jquery_ui_childcomplete"
     },
     {
       "relation": "contains",
@@ -3355,9 +4327,9 @@
       "source_file": "_script/jquery-ui.js",
       "source_location": "L3269",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_jquery_ui_js",
-      "target": "script_jquery_ui_animcomplete",
-      "confidence_score": 1.0
+      "target": "script_jquery_ui_animcomplete"
     },
     {
       "relation": "contains",
@@ -3365,9 +4337,9 @@
       "source_file": "_script/jquery-ui.js",
       "source_location": "L3929",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_jquery_ui_js",
-      "target": "script_jquery_ui_visible",
-      "confidence_score": 1.0
+      "target": "script_jquery_ui_visible"
     },
     {
       "relation": "contains",
@@ -3375,9 +4347,9 @@
       "source_file": "_script/jquery-ui.js",
       "source_location": "L4057",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_jquery_ui_js",
-      "target": "script_jquery_ui_reduce",
-      "confidence_score": 1.0
+      "target": "script_jquery_ui_reduce"
     },
     {
       "relation": "contains",
@@ -3385,9 +4357,9 @@
       "source_file": "_script/jquery-ui.js",
       "source_location": "L7189",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_jquery_ui_js",
-      "target": "script_jquery_ui_datepicker_getzindex",
-      "confidence_score": 1.0
+      "target": "script_jquery_ui_datepicker_getzindex"
     },
     {
       "relation": "contains",
@@ -3395,9 +4367,9 @@
       "source_file": "_script/jquery-ui.js",
       "source_location": "L7218",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_jquery_ui_js",
-      "target": "script_jquery_ui_datepicker",
-      "confidence_score": 1.0
+      "target": "script_jquery_ui_datepicker"
     },
     {
       "relation": "contains",
@@ -3405,9 +4377,9 @@
       "source_file": "_script/jquery-ui.js",
       "source_location": "L9184",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_jquery_ui_js",
-      "target": "script_jquery_ui_datepicker_bindhover",
-      "confidence_score": 1.0
+      "target": "script_jquery_ui_datepicker_bindhover"
     },
     {
       "relation": "contains",
@@ -3415,9 +4387,9 @@
       "source_file": "_script/jquery-ui.js",
       "source_location": "L9198",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_jquery_ui_js",
-      "target": "script_jquery_ui_datepicker_handlemouseover",
-      "confidence_score": 1.0
+      "target": "script_jquery_ui_datepicker_handlemouseover"
     },
     {
       "relation": "contains",
@@ -3425,9 +4397,9 @@
       "source_file": "_script/jquery-ui.js",
       "source_location": "L9212",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_jquery_ui_js",
-      "target": "script_jquery_ui_datepicker_extendremove",
-      "confidence_score": 1.0
+      "target": "script_jquery_ui_datepicker_extendremove"
     },
     {
       "relation": "contains",
@@ -3435,9 +4407,9 @@
       "source_file": "_script/jquery-ui.js",
       "source_location": "L16888",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_jquery_ui_js",
-      "target": "script_jquery_ui_checkfocus",
-      "confidence_score": 1.0
+      "target": "script_jquery_ui_checkfocus"
     },
     {
       "relation": "contains",
@@ -3445,9 +4417,9 @@
       "source_file": "_script/jquery-ui.js",
       "source_location": "L12502",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_jquery_ui_js",
-      "target": "script_jquery_ui_filteredui",
-      "confidence_score": 1.0
+      "target": "script_jquery_ui_filteredui"
     },
     {
       "relation": "contains",
@@ -3455,9 +4427,9 @@
       "source_file": "_script/jquery-ui.js",
       "source_location": "L13099",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_jquery_ui_js",
-      "target": "script_jquery_ui_isoveraxis",
-      "confidence_score": 1.0
+      "target": "script_jquery_ui_isoveraxis"
     },
     {
       "relation": "contains",
@@ -3465,9 +4437,9 @@
       "source_file": "_script/jquery-ui.js",
       "source_location": "L15923",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_jquery_ui_js",
-      "target": "script_jquery_ui_additems",
-      "confidence_score": 1.0
+      "target": "script_jquery_ui_additems"
     },
     {
       "relation": "contains",
@@ -3475,9 +4447,9 @@
       "source_file": "_script/jquery-ui.js",
       "source_location": "L16657",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_jquery_ui_js",
-      "target": "script_jquery_ui_delayevent",
-      "confidence_score": 1.0
+      "target": "script_jquery_ui_delayevent"
     },
     {
       "relation": "contains",
@@ -3485,9 +4457,9 @@
       "source_file": "_script/jquery-ui.js",
       "source_location": "L16757",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_jquery_ui_js",
-      "target": "script_jquery_ui_spinnermodifer",
-      "confidence_score": 1.0
+      "target": "script_jquery_ui_spinnermodifer"
     },
     {
       "relation": "contains",
@@ -3495,9 +4467,9 @@
       "source_file": "_script/jquery-ui.js",
       "source_location": "L17539",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_jquery_ui_js",
-      "target": "script_jquery_ui_constrain",
-      "confidence_score": 1.0
+      "target": "script_jquery_ui_constrain"
     },
     {
       "relation": "contains",
@@ -3505,9 +4477,9 @@
       "source_file": "_script/jquery-ui.js",
       "source_location": "L17926",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_jquery_ui_js",
-      "target": "script_jquery_ui_complete",
-      "confidence_score": 1.0
+      "target": "script_jquery_ui_complete"
     },
     {
       "relation": "contains",
@@ -3515,9 +4487,9 @@
       "source_file": "_script/jquery-ui.js",
       "source_location": "L17931",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_jquery_ui_js",
-      "target": "script_jquery_ui_show",
-      "confidence_score": 1.0
+      "target": "script_jquery_ui_show"
     },
     {
       "relation": "contains",
@@ -3525,9 +4497,9 @@
       "source_file": "_script/jquery-ui.js",
       "source_location": "L18483",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_jquery_ui_js",
-      "target": "script_jquery_ui_position",
-      "confidence_score": 1.0
+      "target": "script_jquery_ui_position"
     },
     {
       "relation": "calls",
@@ -3536,9 +4508,9 @@
       "source_file": "_script/jquery-ui.js",
       "source_location": "L3222",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_jquery_ui_childcomplete",
-      "target": "script_jquery_ui_animcomplete",
-      "confidence_score": 1.0
+      "target": "script_jquery_ui_animcomplete"
     },
     {
       "relation": "calls",
@@ -3547,9 +4519,9 @@
       "source_file": "_script/jquery-ui.js",
       "source_location": "L7305",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_jquery_ui_datepicker",
-      "target": "script_jquery_ui_datepicker_bindhover",
-      "confidence_score": 1.0
+      "target": "script_jquery_ui_datepicker_bindhover"
     },
     {
       "relation": "calls",
@@ -3558,9 +4530,9 @@
       "source_file": "_script/jquery-ui.js",
       "source_location": "L17938",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "script_jquery_ui_show",
-      "target": "script_jquery_ui_complete",
-      "confidence_score": 1.0
+      "target": "script_jquery_ui_complete"
     },
     {
       "relation": "contains",
@@ -3568,10 +4540,921 @@
       "source_file": "README.md",
       "source_location": "L1",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "readme_md",
-      "target": "bankapp_readme_bankapp",
+      "target": "bankapp_readme_bankapp"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L5",
+      "weight": 1.0,
+      "source": "bankapp_readme_bankapp",
+      "target": "bankapp_readme_what_this_repo_does",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L13",
+      "weight": 1.0,
+      "source": "bankapp_readme_bankapp",
+      "target": "bankapp_readme_main_files",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L26",
+      "weight": 1.0,
+      "source": "bankapp_readme_bankapp",
+      "target": "bankapp_readme_start_here",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L32",
+      "weight": 1.0,
+      "source": "bankapp_readme_bankapp",
+      "target": "bankapp_readme_status",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L38",
+      "weight": 1.0,
+      "source": "bankapp_readme_bankapp",
+      "target": "bankapp_readme_quick_repo_summary",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L45",
+      "weight": 1.0,
+      "source": "bankapp_readme_bankapp",
+      "target": "bankapp_readme_llm_start_here",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/project_context.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "claude_project_context_md",
+      "target": "claude_project_context_bankapp_project_context",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/project_context.md",
+      "source_location": "L5",
+      "weight": 1.0,
+      "source": "claude_project_context_bankapp_project_context",
+      "target": "claude_project_context_business_purpose",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/project_context.md",
+      "source_location": "L8",
+      "weight": 1.0,
+      "source": "claude_project_context_bankapp_project_context",
+      "target": "claude_project_context_system_overview",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/project_context.md",
+      "source_location": "L11",
+      "weight": 1.0,
+      "source": "claude_project_context_bankapp_project_context",
+      "target": "claude_project_context_major_applications",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/project_context.md",
+      "source_location": "L14",
+      "weight": 1.0,
+      "source": "claude_project_context_bankapp_project_context",
+      "target": "claude_project_context_environments",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/project_context.md",
+      "source_location": "L17",
+      "weight": 1.0,
+      "source": "claude_project_context_bankapp_project_context",
+      "target": "claude_project_context_tech_stack",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/project_context.md",
+      "source_location": "L24",
+      "weight": 1.0,
+      "source": "claude_project_context_bankapp_project_context",
+      "target": "claude_project_context_critical_dependencies",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/project_context.md",
+      "source_location": "L27",
+      "weight": 1.0,
+      "source": "claude_project_context_bankapp_project_context",
+      "target": "claude_project_context_major_workflows",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/project_context.md",
+      "source_location": "L34",
+      "weight": 1.0,
+      "source": "claude_project_context_bankapp_project_context",
+      "target": "claude_project_context_operational_constraints",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/project_context.md",
+      "source_location": "L37",
+      "weight": 1.0,
+      "source": "claude_project_context_bankapp_project_context",
+      "target": "claude_project_context_scaling_constraints",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/project_context.md",
+      "source_location": "L40",
+      "weight": 1.0,
+      "source": "claude_project_context_bankapp_project_context",
+      "target": "claude_project_context_deployment_model",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/project_context.md",
+      "source_location": "L43",
+      "weight": 1.0,
+      "source": "claude_project_context_bankapp_project_context",
+      "target": "claude_project_context_important_apis",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/project_context.md",
+      "source_location": "L46",
+      "weight": 1.0,
+      "source": "claude_project_context_bankapp_project_context",
+      "target": "claude_project_context_important_databases",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/project_context.md",
+      "source_location": "L49",
+      "weight": 1.0,
+      "source": "claude_project_context_bankapp_project_context",
+      "target": "claude_project_context_important_queues_events",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/project_context.md",
+      "source_location": "L52",
+      "weight": 1.0,
+      "source": "claude_project_context_bankapp_project_context",
+      "target": "claude_project_context_known_technical_debt",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/project_context.md",
+      "source_location": "L55",
+      "weight": 1.0,
+      "source": "claude_project_context_bankapp_project_context",
+      "target": "claude_project_context_current_architecture_themes",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/workflows.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "claude_workflows_md",
+      "target": "claude_workflows_bankapp_workflows",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/workflows.md",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "claude_workflows_bankapp_workflows",
+      "target": "claude_workflows_local_development",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/workflows.md",
+      "source_location": "L6",
+      "weight": 1.0,
+      "source": "claude_workflows_bankapp_workflows",
+      "target": "claude_workflows_testing",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/workflows.md",
+      "source_location": "L9",
+      "weight": 1.0,
+      "source": "claude_workflows_bankapp_workflows",
+      "target": "claude_workflows_deployment",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/workflows.md",
+      "source_location": "L12",
+      "weight": 1.0,
+      "source": "claude_workflows_bankapp_workflows",
+      "target": "claude_workflows_migrations",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/workflows.md",
+      "source_location": "L15",
+      "weight": 1.0,
+      "source": "claude_workflows_bankapp_workflows",
+      "target": "claude_workflows_feature_rollout",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/workflows.md",
+      "source_location": "L19",
+      "weight": 1.0,
+      "source": "claude_workflows_bankapp_workflows",
+      "target": "claude_workflows_incident_response",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/workflows.md",
+      "source_location": "L24",
+      "weight": 1.0,
+      "source": "claude_workflows_bankapp_workflows",
+      "target": "claude_workflows_debugging",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/workflows.md",
+      "source_location": "L29",
+      "weight": 1.0,
+      "source": "claude_workflows_bankapp_workflows",
+      "target": "claude_workflows_rollback",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/workflows.md",
+      "source_location": "L34",
+      "weight": 1.0,
+      "source": "claude_workflows_bankapp_workflows",
+      "target": "claude_workflows_observability_investigation",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/architecture.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "claude_architecture_md",
+      "target": "claude_architecture_bankapp_architecture",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/architecture.md",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "claude_architecture_bankapp_architecture",
+      "target": "claude_architecture_end_to_end_request_flows",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/architecture.md",
+      "source_location": "L6",
+      "weight": 1.0,
+      "source": "claude_architecture_bankapp_architecture",
+      "target": "claude_architecture_frontend_backend_interaction",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/architecture.md",
+      "source_location": "L10",
+      "weight": 1.0,
+      "source": "claude_architecture_bankapp_architecture",
+      "target": "claude_architecture_service_boundaries",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/architecture.md",
+      "source_location": "L13",
+      "weight": 1.0,
+      "source": "claude_architecture_bankapp_architecture",
+      "target": "claude_architecture_sync_vs_async_flows",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/architecture.md",
+      "source_location": "L16",
+      "weight": 1.0,
+      "source": "claude_architecture_bankapp_architecture",
+      "target": "claude_architecture_event_driven_architecture",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/architecture.md",
+      "source_location": "L19",
+      "weight": 1.0,
+      "source": "claude_architecture_bankapp_architecture",
+      "target": "claude_architecture_caching_layers",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/architecture.md",
+      "source_location": "L22",
+      "weight": 1.0,
+      "source": "claude_architecture_bankapp_architecture",
+      "target": "claude_architecture_auth_flow",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/architecture.md",
+      "source_location": "L25",
+      "weight": 1.0,
+      "source": "claude_architecture_bankapp_architecture",
+      "target": "claude_architecture_deployment_topology",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/architecture.md",
+      "source_location": "L28",
+      "weight": 1.0,
+      "source": "claude_architecture_bankapp_architecture",
+      "target": "claude_architecture_scaling_behavior",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/architecture.md",
+      "source_location": "L32",
+      "weight": 1.0,
+      "source": "claude_architecture_bankapp_architecture",
+      "target": "claude_architecture_resilience_mechanisms",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/architecture.md",
+      "source_location": "L36",
+      "weight": 1.0,
+      "source": "claude_architecture_bankapp_architecture",
+      "target": "claude_architecture_failover_behavior",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/architecture.md",
+      "source_location": "L39",
+      "weight": 1.0,
+      "source": "claude_architecture_bankapp_architecture",
+      "target": "claude_architecture_observability_architecture",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/architecture.md",
+      "source_location": "L42",
+      "weight": 1.0,
+      "source": "claude_architecture_bankapp_architecture",
+      "target": "claude_architecture_retry_idempotency_patterns",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/repository_navigation.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "claude_repository_navigation_md",
+      "target": "claude_repository_navigation_top_level_modules",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/repository_navigation.md",
+      "source_location": "L8",
+      "weight": 1.0,
+      "source": "claude_repository_navigation_md",
+      "target": "claude_repository_navigation_read_first",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/repository_navigation.md",
+      "source_location": "L16",
+      "weight": 1.0,
+      "source": "claude_repository_navigation_md",
+      "target": "claude_repository_navigation_critical_entrypoints",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/graph_relationships.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "claude_graph_relationships_md",
+      "target": "claude_graph_relationships_bankapp_graph_relationships",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/decision_log.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "claude_decision_log_md",
+      "target": "claude_decision_log_bankapp_decision_log",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/decision_log.md",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "claude_decision_log_bankapp_decision_log",
+      "target": "claude_decision_log_graphify_first_repo_discovery",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/decision_log.md",
+      "source_location": "L9",
+      "weight": 1.0,
+      "source": "claude_decision_log_bankapp_decision_log",
+      "target": "claude_decision_log_preserve_repo_separation",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/known_pitfalls.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "claude_known_pitfalls_md",
+      "target": "claude_known_pitfalls_bankapp_known_pitfalls",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/onboarding.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "claude_onboarding_md",
+      "target": "claude_onboarding_bankapp_onboarding",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/onboarding.md",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "claude_onboarding_bankapp_onboarding",
+      "target": "claude_onboarding_first_read",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/onboarding.md",
+      "source_location": "L11",
+      "weight": 1.0,
+      "source": "claude_onboarding_bankapp_onboarding",
+      "target": "claude_onboarding_critical_entrypoints",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/onboarding.md",
+      "source_location": "L19",
+      "weight": 1.0,
+      "source": "claude_onboarding_bankapp_onboarding",
+      "target": "claude_onboarding_module_map",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/onboarding.md",
+      "source_location": "L26",
+      "weight": 1.0,
+      "source": "claude_onboarding_bankapp_onboarding",
+      "target": "claude_onboarding_how_to_start_reasoning",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/onboarding.md",
+      "source_location": "L31",
+      "weight": 1.0,
+      "source": "claude_onboarding_bankapp_onboarding",
+      "target": "claude_onboarding_local_run_baseline",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/coding_rules.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "claude_coding_rules_md",
+      "target": "claude_coding_rules_bankapp_coding_rules",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/coding_rules.md",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "claude_coding_rules_bankapp_coding_rules",
+      "target": "claude_coding_rules_naming_structure",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/coding_rules.md",
+      "source_location": "L7",
+      "weight": 1.0,
+      "source": "claude_coding_rules_bankapp_coding_rules",
+      "target": "claude_coding_rules_architecture_patterns",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/coding_rules.md",
+      "source_location": "L12",
+      "weight": 1.0,
+      "source": "claude_coding_rules_bankapp_coding_rules",
+      "target": "claude_coding_rules_state_management",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/coding_rules.md",
+      "source_location": "L15",
+      "weight": 1.0,
+      "source": "claude_coding_rules_bankapp_coding_rules",
+      "target": "claude_coding_rules_error_handling_logging",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/coding_rules.md",
+      "source_location": "L20",
+      "weight": 1.0,
+      "source": "claude_coding_rules_bankapp_coding_rules",
+      "target": "claude_coding_rules_api_conventions",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/coding_rules.md",
+      "source_location": "L24",
+      "weight": 1.0,
+      "source": "claude_coding_rules_bankapp_coding_rules",
+      "target": "claude_coding_rules_testing_conventions",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/coding_rules.md",
+      "source_location": "L27",
+      "weight": 1.0,
+      "source": "claude_coding_rules_bankapp_coding_rules",
+      "target": "claude_coding_rules_typing_abstractions",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/coding_rules.md",
+      "source_location": "L31",
+      "weight": 1.0,
+      "source": "claude_coding_rules_bankapp_coding_rules",
+      "target": "claude_coding_rules_database_migration_patterns",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/system_prompt.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "claude_system_prompt_md",
+      "target": "claude_system_prompt_bankapp_claude_system_prompt",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/prompts/debug.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "claude_prompts_debug_md",
+      "target": "prompts_debug_debug_prompt",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/prompts/incident_response.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "claude_prompts_incident_response_md",
+      "target": "prompts_incident_response_incident_response_prompt",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/prompts/architecture_review.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "claude_prompts_architecture_review_md",
+      "target": "prompts_architecture_review_architecture_review_prompt",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/prompts/refactor.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "claude_prompts_refactor_md",
+      "target": "prompts_refactor_refactor_prompt",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/prompts/feature.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "claude_prompts_feature_md",
+      "target": "prompts_feature_feature_prompt",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/prompts/performance_analysis.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "claude_prompts_performance_analysis_md",
+      "target": "prompts_performance_analysis_performance_analysis_prompt",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/services/primary-app.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "claude_services_primary_app_md",
+      "target": "services_primary_app_primary_app",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/services/primary-app.md",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "services_primary_app_primary_app",
+      "target": "services_primary_app_responsibility",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/services/primary-app.md",
+      "source_location": "L6",
+      "weight": 1.0,
+      "source": "services_primary_app_primary_app",
+      "target": "services_primary_app_dependencies",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/services/primary-app.md",
+      "source_location": "L13",
+      "weight": 1.0,
+      "source": "services_primary_app_primary_app",
+      "target": "services_primary_app_inbound_apis",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/services/primary-app.md",
+      "source_location": "L16",
+      "weight": 1.0,
+      "source": "services_primary_app_primary_app",
+      "target": "services_primary_app_outbound_apis",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/services/primary-app.md",
+      "source_location": "L19",
+      "weight": 1.0,
+      "source": "services_primary_app_primary_app",
+      "target": "services_primary_app_databases_used",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/services/primary-app.md",
+      "source_location": "L22",
+      "weight": 1.0,
+      "source": "services_primary_app_primary_app",
+      "target": "services_primary_app_queues_topics",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/services/primary-app.md",
+      "source_location": "L25",
+      "weight": 1.0,
+      "source": "services_primary_app_primary_app",
+      "target": "services_primary_app_critical_workflows",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/services/primary-app.md",
+      "source_location": "L32",
+      "weight": 1.0,
+      "source": "services_primary_app_primary_app",
+      "target": "services_primary_app_failure_modes",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/services/primary-app.md",
+      "source_location": "L35",
+      "weight": 1.0,
+      "source": "services_primary_app_primary_app",
+      "target": "services_primary_app_scaling_concerns",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/services/primary-app.md",
+      "source_location": "L39",
+      "weight": 1.0,
+      "source": "services_primary_app_primary_app",
+      "target": "services_primary_app_operational_concerns",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/services/primary-app.md",
+      "source_location": "L43",
+      "weight": 1.0,
+      "source": "services_primary_app_primary_app",
+      "target": "services_primary_app_important_source_files",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/services/primary-app.md",
+      "source_location": "L51",
+      "weight": 1.0,
+      "source": "services_primary_app_primary_app",
+      "target": "services_primary_app_dangerous_code_paths",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/services/primary-app.md",
+      "source_location": "L54",
+      "weight": 1.0,
+      "source": "services_primary_app_primary_app",
+      "target": "services_primary_app_testing_strategy",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/services/primary-app.md",
+      "source_location": "L57",
+      "weight": 1.0,
+      "source": "services_primary_app_primary_app",
+      "target": "services_primary_app_known_technical_debt",
       "confidence_score": 1.0
     }
   ],
-  "hyperedges": []
+  "hyperedges": [],
+  "built_at_commit": "9a7036038f6b7f1317f514203749420afe0e9047"
 }
